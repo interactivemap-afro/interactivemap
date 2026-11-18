@@ -1,0 +1,201 @@
+{
+  "AFROKONNECTION": {
+    "coords": [
+      41.79695,
+      2.22015
+    ],
+    "logo": "LogoAfrokonnection.jpg"
+  },
+  "Eseyasa Productions": {
+    "coords": [
+      41.79695,
+      2.2206
+    ],
+    "logo": "LogoEseyasa.jpg"
+  },
+  "Editorial Jande Barcelona": {
+    "coords": [
+      41.4009,
+      2.1761
+    ],
+    "logo": "LogoEditorialJande.jpg",
+    "coordsAproximadas": true
+  },
+  "Abarka restaurante": {
+    "coords": [
+      41.3755,
+      2.141
+    ],
+    "logo": "Logo Abarka.jpg",
+    "coordsAproximadas": true
+  },
+  "Africa Moment Artes escenicas": {
+    "coords": [
+      41.4005,
+      2.2
+    ],
+    "logo": "LogoAfricaMoment.jpg",
+    "coordsAproximadas": true
+  },
+  "Africadoolu artes y cine africano": {
+    "coords": [
+      41.3795,
+      2.1905
+    ],
+    "logo": "LogoAfricadoolu.jpg",
+    "coordsAproximadas": true,
+    "excluirLinks": [
+      "https://www.instagram.com/amafestbcn/"
+    ]
+  },
+  "Africaespromociona": {
+    "ignorar": true,
+    "motivo": "Removida a pedido do IMF-CSIC (15/11/2026): web sequestrada."
+  },
+  "Afrolab Basement": {
+    "coords": [
+      41.383,
+      2.164
+    ],
+    "logo": "Logoafrolab.jpg",
+    "coordsAproximadas": true,
+    "categoria": "coletivo_cultural",
+    "telefone": "677 517 889"
+  },
+  "Amafest Barcelona EVENTO": {
+    "coords": [
+      41.3855,
+      2.173
+    ],
+    "logo": "LogoAmafest.jpg",
+    "evento": true,
+    "coordsAproximadas": true
+  },
+  "Asociaci Adis granollers": {
+    "coords": [
+      41.607,
+      2.287
+    ],
+    "logo": "LogoasocAdis.jpg",
+    "coordsAproximadas": true
+  },
+  "Asociaci#U00f3n Plataforma Cero": {
+    "nome": "Plataforma Cero",
+    "coords": [
+      41.3705,
+      2.1365
+    ],
+    "logo": "LogoPlataformaCero.jpg",
+    "coordsAproximadas": true
+  },
+  "Asociacion La Oculta": {
+    "coords": [
+      41.3795,
+      2.166
+    ],
+    "logo": "LogoLaOculta.jpg",
+    "coordsAproximadas": true
+  },
+  "Associacio Africat": {
+    "coords": [
+      41.4005,
+      2.1745
+    ],
+    "logo": "LogoAfricat.jpg",
+    "coordsAproximadas": true
+  },
+  "Associacio Centre Euro Africa": {
+    "coords": [
+      41.3905,
+      2.1555
+    ],
+    "logo": "LogoCentreEuroAfrica.jpg",
+    "coordsAproximadas": true
+  },
+  "Associacio de dones marroquines i catalanes BCN": {
+    "coords": [
+      41.3775,
+      2.1705
+    ],
+    "logo": "LogoDonesmarroquines.jpg",
+    "coordsAproximadas": true
+  },
+  "Black Barcelona Encuentro EVENTO": {
+    "coords": [
+      41.4475,
+      2.1715
+    ],
+    "logo": "LogoBlackBarcelonaencuentro.jpg",
+    "evento": true,
+    "coordsAproximadas": true
+  },
+  "Centro Alma estetica": {
+    "coords": [
+      41.3665,
+      2.108
+    ],
+    "logo": "LogoCentroAlma.png",
+    "coordsAproximadas": true
+  },
+  "Cooperativa La Tregua BCN artistica migrante": {
+    "coords": [
+      41.377,
+      2.1425
+    ],
+    "logo": "LogoCoopLaTregua.jpg",
+    "coordsAproximadas": true
+  },
+  "Dialegs de Dona Sara Ahmed BCN": {
+    "coords": [
+      41.3805,
+      2.17
+    ],
+    "logo": "LogoDialegs.jpg",
+    "coordsAproximadas": true
+  },
+  "No es pais para negras": {
+    "logo": "LogoNOespaisparanegras.jpg",
+    "excluirLinks": [
+      "https://www.facebook.com/silvia.albert.12/"
+    ]
+  },
+  "Otros sures": {
+    "coords": [
+      41.377,
+      2.177
+    ],
+    "logo": "LogoOtrossurese.jpg",
+    "coordsAproximadas": true,
+    "eMail": "quinnymartinez168@gmail.com",
+    "eMails": "quinnymartinez168@gmail.com / santamonica@gencat.cat"
+  },
+  "Periferia Cimarronas": {
+    "logo": "LogoCimarronas.jpg"
+  },
+  "Radio Africa Magazine": {
+    "logo": "LogoRadioAfrica.jpg"
+  },
+  "SOS Racisme": {
+    "coords": [
+      41.3825,
+      2.177
+    ],
+    "logo": "LogoSosRacisme.png",
+    "coordsAproximadas": true,
+    "sobre_i18n": {
+      "es": "Somos una asociación creada en 1989 para trabajar en la defensa de los derechos humanos desde la acción antirracista, de forma independiente, democrática y desde la acción de base. Queremos una sociedad donde el racismo y la desigualdad no tengan cabida, una sociedad diversa, justa y libre, en la que todas las personas puedan ejercer sus derechos en igualdad de condiciones. Denunciamos el racismo en todas sus formas y espacios, ofreciendo apoyo legal y social a las víctimas. Hacemos presión institucional para impulsar políticas públicas que busquen una justicia social real. Promovemos el cambio de conciencias y la transformación social a través de campañas y acciones formativas"
+    },
+    "notaMorada": "Morada confirmada pela entidade (rua renomeada recentemente; espaço de co-working)."
+  },
+  "UbuntuES afrodescendientes Barcelona": {
+    "coords": [
+      41.443,
+      2.177
+    ],
+    "logo": "LogoUbuntu.jpg",
+    "coordsAproximadas": true
+  },
+  "a LIST DEF SELECCION MAPA ASOCIACIONES solo Afro Barcelona 12 julio": {
+    "ignorar": true
+  }
+}
