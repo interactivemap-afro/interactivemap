@@ -31,7 +31,12 @@
       "fullAddress": "Rua António José da Silva, Torre 10 - Loja Esq, 2625-642 Vialonga, Vila Franca de Xira, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-Dos-Africanos-Do-Concelho-De-Vila-Franca-De-Xira-AACVFX.jpg",
-    "sobre": "A Associação dos Africanos do Concelho de Vila Franca de Xira foi criada em 2000, para promover uma maior integração da comunidade africana residente no município, estendendo o seu apoio a toda a população imigrante aí radicada. Além de ajudar na defesa da dignidade de cada cidadão, aproxima, através do convívio cultural e social, africanos de diferentes origens e estabelece pontes entre estes e os portugueses."
+    "sobre": "A Associação dos Africanos do Concelho de Vila Franca de Xira foi criada em 2000, para promover uma maior integração da comunidade africana residente no município, estendendo o seu apoio a toda a população imigrante aí radicada. Além de ajudar na defesa da dignidade de cada cidadão, aproxima, através do convívio cultural e social, africanos de diferentes origens e estabelece pontes entre estes e os portugueses.",
+    "sobre_i18n": {
+      "pt": "A Associação dos Africanos do Concelho de Vila Franca de Xira foi criada em 2000, para promover uma maior integração da comunidade africana residente no município, estendendo o seu apoio a toda a população imigrante aí radicada. Além de ajudar na defesa da dignidade de cada cidadão, aproxima, através do convívio cultural e social, africanos de diferentes origens e estabelece pontes entre estes e os portugueses.",
+      "es": "La Asociación de los Africanos del Municipio de Vila Franca de Xira se creó en 2000 para promover una mayor integración de la comunidad africana residente en el municipio, extendiendo su apoyo a toda la población inmigrante allí asentada. Además de ayudar a defender la dignidad de cada ciudadano, acerca, a través de la convivencia cultural y social, a africanos de distintos orígenes y tiende puentes entre ellos y los portugueses.",
+      "en": "The Association of Africans of the Municipality of Vila Franca de Xira was founded in 2000 to promote greater integration of the African community living in the municipality, extending its support to the entire immigrant population settled there. Besides helping to defend the dignity of every citizen, it brings together Africans of different backgrounds through cultural and social activities and builds bridges between them and the Portuguese."
+    }
   },
   {
     "id": 2,
@@ -66,7 +71,12 @@
       "fullAddress": "Rua Azinhaga da Alagueza, Lote X, Cave Dt., Olivais Velho, 1800-005 Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-de-Apoio-aos-Estudantes-Africanos-e-Comunidades-AAEAC.jpg",
-    "sobre": "Fundada em 1999, a Associação de Apoio aos Estudantes Africanos e Comunidades tem como missão contribuir para a valorização da formação científica, profissional e cultural dos estudantes africanos a frequentar instituições de ensino em Portugal, facilitando a sua integração. O trabalho passa pela colaboração com entidades públicas e privadas, na promoção de estágios, e no incentivo ao regresso dos jovens aos países de origem."
+    "sobre": "Fundada em 1999, a Associação de Apoio aos Estudantes Africanos e Comunidades tem como missão contribuir para a valorização da formação científica, profissional e cultural dos estudantes africanos a frequentar instituições de ensino em Portugal, facilitando a sua integração. O trabalho passa pela colaboração com entidades públicas e privadas, na promoção de estágios, e no incentivo ao regresso dos jovens aos países de origem.",
+    "sobre_i18n": {
+      "pt": "Fundada em 1999, a Associação de Apoio aos Estudantes Africanos e Comunidades tem como missão contribuir para a valorização da formação científica, profissional e cultural dos estudantes africanos a frequentar instituições de ensino em Portugal, facilitando a sua integração. O trabalho passa pela colaboração com entidades públicas e privadas, na promoção de estágios, e no incentivo ao regresso dos jovens aos países de origem.",
+      "es": "Fundada en 1999, la Asociación de Apoyo a los Estudiantes Africanos y Comunidades tiene como misión contribuir a la valorización de la formación científica, profesional y cultural de los estudiantes africanos que asisten a instituciones de enseñanza en Portugal, facilitando su integración. Su trabajo pasa por la colaboración con entidades públicas y privadas, la promoción de prácticas y el fomento del regreso de los jóvenes a sus países de origen.",
+      "en": "Founded in 1999, the Association for the Support of African Students and Communities aims to enhance the scientific, professional and cultural training of African students attending educational institutions in Portugal, making their integration easier. Its work involves collaborating with public and private bodies, promoting internships and encouraging young people to return to their countries of origin."
+    }
   },
   {
     "id": 3,
@@ -101,7 +111,12 @@
       "fullAddress": "Rua Quinta Nossa Senhora do Monte Sião, Nº 1, Torre da Marinha, 2840-597 Seixal, Setúbal, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-de-Apoio-a-Comunidade-dos-Paises-com-Lingua-Oficial-Portuguesa-AAGA.jpg",
-    "sobre": "A Associação de Apoio à Comunidade dos Países com Língua Oficial Portuguesa (AAGA) existe desde 2012, com o propósito de promover a integração social da Comunidade migrante oriunda de países que partilham o português como idioma. Destaca-se no apoio na área da formação profissional e psicossocial, e na divulgação das culturas dos seus associados, celebrando a multiculturalidade presente no município."
+    "sobre": "A Associação de Apoio à Comunidade dos Países com Língua Oficial Portuguesa (AAGA) existe desde 2012, com o propósito de promover a integração social da Comunidade migrante oriunda de países que partilham o português como idioma. Destaca-se no apoio na área da formação profissional e psicossocial, e na divulgação das culturas dos seus associados, celebrando a multiculturalidade presente no município.",
+    "sobre_i18n": {
+      "pt": "A Associação de Apoio à Comunidade dos Países com Língua Oficial Portuguesa (AAGA) existe desde 2012, com o propósito de promover a integração social da Comunidade migrante oriunda de países que partilham o português como idioma. Destaca-se no apoio na área da formação profissional e psicossocial, e na divulgação das culturas dos seus associados, celebrando a multiculturalidade presente no município.",
+      "es": "La Asociación de Apoyo a la Comunidad de los Países de Lengua Oficial Portuguesa (AAGA) existe desde 2012 con el propósito de promover la integración social de la comunidad migrante procedente de países que comparten el portugués como idioma. Destaca por su apoyo en el ámbito de la formación profesional y psicosocial, y por la difusión de las culturas de sus asociados, celebrando la multiculturalidad presente en el municipio.",
+      "en": "The Association for the Support of the Community of Portuguese-Speaking Countries (AAGA) has existed since 2012 to promote the social integration of the migrant community from countries that share Portuguese as a language. It stands out for its support in vocational and psychosocial training and for promoting its members' cultures, celebrating the multiculturalism of the municipality."
+    }
   },
   {
     "id": 4,
@@ -136,7 +151,12 @@
       "fullAddress": "Centro Comercial da Grande Galiza, Loja 62, R. Sacadura Cabral 62, 2765-349 Cascais, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-de-Filhos-e-Amigos-da-Ilha-de-Jeta-Nucleo-de-Portugal-AFAIJE.jpg",
-    "sobre": "Reconhecida como ONG desde 1999, a Associação de Filhos e Amigos da Ilha de Jeta - Núcleo de Portugal (AFAIJE) propõe-se apoiar, acompanhar e impulsionar a comunidade guineense e seus amigos, intervém junto das comunidades imigrantes nos âmbitos social, de saúde, educação e cidadania no concelho de Cascais. Nesse sentido, procura estratégias inovadoras e economicamente sustentáveis."
+    "sobre": "Reconhecida como ONG desde 1999, a Associação de Filhos e Amigos da Ilha de Jeta - Núcleo de Portugal (AFAIJE) propõe-se apoiar, acompanhar e impulsionar a comunidade guineense e seus amigos, intervém junto das comunidades imigrantes nos âmbitos social, de saúde, educação e cidadania no concelho de Cascais. Nesse sentido, procura estratégias inovadoras e economicamente sustentáveis.",
+    "sobre_i18n": {
+      "pt": "Reconhecida como ONG desde 1999, a Associação de Filhos e Amigos da Ilha de Jeta - Núcleo de Portugal (AFAIJE) propõe-se apoiar, acompanhar e impulsionar a comunidade guineense e seus amigos, intervém junto das comunidades imigrantes nos âmbitos social, de saúde, educação e cidadania no concelho de Cascais. Nesse sentido, procura estratégias inovadoras e economicamente sustentáveis.",
+      "es": "Reconocida como ONG desde 1999, la Asociación de Hijos y Amigos de la Isla de Jeta – Núcleo de Portugal (AFAIJE) se propone apoyar, acompañar e impulsar a la comunidad guineana y a sus amigos, e interviene junto a las comunidades inmigrantes en los ámbitos social, sanitario, educativo y de ciudadanía en el municipio de Cascais. En este sentido, busca estrategias innovadoras y económicamente sostenibles.",
+      "en": "Recognised as an NGO since 1999, the Association of Children and Friends of Jeta Island – Portugal Branch (AFAIJE) supports, accompanies and empowers the Guinean community and its friends, working with immigrant communities in the areas of social welfare, health, education and citizenship in the municipality of Cascais. To this end, it seeks innovative and economically sustainable strategies."
+    }
   },
   {
     "id": 5,
@@ -171,7 +191,12 @@
       "fullAddress": "Rua do Vale 17, 2610-232 Alfragide, Amadora, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-de-Solidariadade-social-Alto-Cova-da-Moura-ASSACM.jpg",
-    "sobre": "A Associação de Solidariedade social Alto Cova da Moura (ASSACM) orienta a sua intervenção para o desenvolvimento local, e promoção da qualidade de vida da comunidade. Desde 1980 no terreno, funciona como Centro Comunitário, e pretende responder às necessidades da população, prestando apoio, nomeadamente jurídico e psicológico, e dinamizando atividades, por exemplo na área do desporto e cultura."
+    "sobre": "A Associação de Solidariedade social Alto Cova da Moura (ASSACM) orienta a sua intervenção para o desenvolvimento local, e promoção da qualidade de vida da comunidade. Desde 1980 no terreno, funciona como Centro Comunitário, e pretende responder às necessidades da população, prestando apoio, nomeadamente jurídico e psicológico, e dinamizando atividades, por exemplo na área do desporto e cultura.",
+    "sobre_i18n": {
+      "pt": "A Associação de Solidariedade social Alto Cova da Moura (ASSACM) orienta a sua intervenção para o desenvolvimento local, e promoção da qualidade de vida da comunidade. Desde 1980 no terreno, funciona como Centro Comunitário, e pretende responder às necessidades da população, prestando apoio, nomeadamente jurídico e psicológico, e dinamizando atividades, por exemplo na área do desporto e cultura.",
+      "es": "La Asociación de Solidaridad Social Alto Cova da Moura (ASSACM) orienta su intervención al desarrollo local y a la mejora de la calidad de vida de la comunidad. Presente en el terreno desde 1980, funciona como Centro Comunitario y pretende responder a las necesidades de la población, prestando apoyo, sobre todo jurídico y psicológico, y dinamizando actividades, por ejemplo en el ámbito del deporte y la cultura.",
+      "en": "The Alto Cova da Moura Social Solidarity Association (ASSACM) focuses on local development and on improving the community's quality of life. Active on the ground since 1980, it works as a Community Centre that responds to the population's needs, providing support, especially legal and psychological, and running activities in areas such as sport and culture."
+    }
   },
   {
     "id": 6,
@@ -206,7 +231,12 @@
       "fullAddress": "Rua António Correia 1C, 2.º Esq., 2700-067 Amadora, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-Bue-Fixe.jpg",
-    "sobre": "A Associação Bué Fixe nasceu em 2003 com a prioridade de apoiar jovens que vivem em contextos de vulnerabilidade, e que estejam sujeitos a um maior risco de infeção por IST/VIH/sida, bem como mais expostos a situações de exclusão social causadas pelo desemprego e discriminação. A sua intervenção foca-se na dinamização de programas sociais construídos com e para a juventude que pretende beneficiar."
+    "sobre": "A Associação Bué Fixe nasceu em 2003 com a prioridade de apoiar jovens que vivem em contextos de vulnerabilidade, e que estejam sujeitos a um maior risco de infeção por IST/VIH/sida, bem como mais expostos a situações de exclusão social causadas pelo desemprego e discriminação. A sua intervenção foca-se na dinamização de programas sociais construídos com e para a juventude que pretende beneficiar.",
+    "sobre_i18n": {
+      "pt": "A Associação Bué Fixe nasceu em 2003 com a prioridade de apoiar jovens que vivem em contextos de vulnerabilidade, e que estejam sujeitos a um maior risco de infeção por IST/VIH/sida, bem como mais expostos a situações de exclusão social causadas pelo desemprego e discriminação. A sua intervenção foca-se na dinamização de programas sociais construídos com e para a juventude que pretende beneficiar.",
+      "es": "La Asociación Bué Fixe nació en 2003 con la prioridad de apoyar a jóvenes que viven en contextos de vulnerabilidad y que están expuestos a un mayor riesgo de infección por ITS/VIH/sida, así como a situaciones de exclusión social provocadas por el desempleo y la discriminación. Su intervención se centra en dinamizar programas sociales construidos con y para la juventud a la que quiere beneficiar.",
+      "en": "The Bué Fixe Association was founded in 2003 with the priority of supporting young people living in vulnerable situations who face a higher risk of STI/HIV/AIDS infection and greater exposure to social exclusion caused by unemployment and discrimination. Its work focuses on social programmes built with and for the young people it aims to benefit."
+    }
   },
   {
     "id": 7,
@@ -240,7 +270,12 @@
       "fullAddress": "Rua Moçambique Nº 1, Cave B, 2805-207 Cova da Piedade, Almada, Setúbal, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-Caboverdeana-de-Almada-Cretcheu.jpg",
-    "sobre": "A Associação Caboverdeana de Almada, também conhecida por Cretcheu, atua desde 1974 com o intuito de desenvolver laços de solidariedade entre os cabo-verdianos residentes em Portugal, e expandir essas ligações a outros cidadãos, promovendo uma melhor integração dos associados na sociedade lusa. Tem uma intervenção orientada para a dinamização de atividades socioculturais e recreativas."
+    "sobre": "A Associação Caboverdeana de Almada, também conhecida por Cretcheu, atua desde 1974 com o intuito de desenvolver laços de solidariedade entre os cabo-verdianos residentes em Portugal, e expandir essas ligações a outros cidadãos, promovendo uma melhor integração dos associados na sociedade lusa. Tem uma intervenção orientada para a dinamização de atividades socioculturais e recreativas.",
+    "sobre_i18n": {
+      "pt": "A Associação Caboverdeana de Almada, também conhecida por Cretcheu, atua desde 1974 com o intuito de desenvolver laços de solidariedade entre os cabo-verdianos residentes em Portugal, e expandir essas ligações a outros cidadãos, promovendo uma melhor integração dos associados na sociedade lusa. Tem uma intervenção orientada para a dinamização de atividades socioculturais e recreativas.",
+      "es": "La Asociación Caboverdiana de Almada, también conocida como Cretcheu, actúa desde 1974 con el objetivo de desarrollar lazos de solidaridad entre los caboverdianos residentes en Portugal y extender esos vínculos a otros ciudadanos, promoviendo una mejor integración de sus asociados en la sociedad portuguesa. Su intervención se orienta a la dinamización de actividades socioculturales y recreativas.",
+      "en": "The Cape Verdean Association of Almada, also known as Cretcheu, has been active since 1974 to build bonds of solidarity among Cape Verdeans living in Portugal and extend those ties to other citizens, promoting better integration of its members into Portuguese society. Its work centres on socio-cultural and recreational activities."
+    }
   },
   {
     "id": 8,
@@ -275,7 +310,12 @@
       "fullAddress": "Rua Maria Carlota 8, Loja A/B, 1750-179 Lisboa, Lumiar, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-de-Moradores-do-Bairro-da-Cruz-Vermelha-do-Lumiar.jpg",
-    "sobre": "A Associação de Moradores do Bairro da Cruz Vermelha do Lumiar (AMBCVL) foi fundada em 1994, e tem como objetivo criar e melhorar as infraestruturas de apoio direto à comunidade residente, nomeadamente através de uma boa iluminação pública, segurança policial eficaz, criação de recintos desportivos e zonas verdes, e resolução de problemas de habitação, visando o aperfeiçoamento social, cultural, físico e cívico. "
+    "sobre": "A Associação de Moradores do Bairro da Cruz Vermelha do Lumiar (AMBCVL) foi fundada em 1994, e tem como objetivo criar e melhorar as infraestruturas de apoio direto à comunidade residente, nomeadamente através de uma boa iluminação pública, segurança policial eficaz, criação de recintos desportivos e zonas verdes, e resolução de problemas de habitação, visando o aperfeiçoamento social, cultural, físico e cívico. ",
+    "sobre_i18n": {
+      "pt": "A Associação de Moradores do Bairro da Cruz Vermelha do Lumiar (AMBCVL) foi fundada em 1994, e tem como objetivo criar e melhorar as infraestruturas de apoio direto à comunidade residente, nomeadamente através de uma boa iluminação pública, segurança policial eficaz, criação de recintos desportivos e zonas verdes, e resolução de problemas de habitação, visando o aperfeiçoamento social, cultural, físico e cívico. ",
+      "es": "La Asociación de Vecinos del Barrio de la Cruz Roja del Lumiar (AMBCVL) se fundó en 1994 con el objetivo de crear y mejorar las infraestructuras de apoyo directo a la comunidad residente, en particular mediante un buen alumbrado público, una seguridad policial eficaz, la creación de recintos deportivos y zonas verdes y la resolución de problemas de vivienda, con vistas a la mejora social, cultural, física y cívica.",
+      "en": "The Residents' Association of the Cruz Vermelha do Lumiar Neighbourhood (AMBCVL) was founded in 1994 to create and improve infrastructure that directly supports the local community, notably good street lighting, effective policing, sports grounds and green spaces, and solutions to housing problems, with the aim of social, cultural, physical and civic improvement."
+    }
   },
   {
     "id": 9,
@@ -310,7 +350,12 @@
       "fullAddress": "Rua João XXIII, Bloco A (Traseiras), 2635-184 Rio de Mouro, Sintra, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-Luso-Caboverdeana-de-Sintra-ACAS-Sintra.jpg",
-    "sobre": "A Associação Luso Caboverdeana de Sintra (ACAS Sintra) iniciou atividade em 2002, afirmando-se como uma entidade de intervenção comunitária que acolhe, capacita e integra populações vulneráveis do concelho de Sintra, atuando nas freguesias de Rio de Mouro e Algueirão Mem Martins. Com foco na inclusão social, dispõe de gabinete de apoio ao imigrante, e promove ações em várias áreas, como educação e emprego."
+    "sobre": "A Associação Luso Caboverdeana de Sintra (ACAS Sintra) iniciou atividade em 2002, afirmando-se como uma entidade de intervenção comunitária que acolhe, capacita e integra populações vulneráveis do concelho de Sintra, atuando nas freguesias de Rio de Mouro e Algueirão Mem Martins. Com foco na inclusão social, dispõe de gabinete de apoio ao imigrante, e promove ações em várias áreas, como educação e emprego.",
+    "sobre_i18n": {
+      "pt": "A Associação Luso Caboverdeana de Sintra (ACAS Sintra) iniciou atividade em 2002, afirmando-se como uma entidade de intervenção comunitária que acolhe, capacita e integra populações vulneráveis do concelho de Sintra, atuando nas freguesias de Rio de Mouro e Algueirão Mem Martins. Com foco na inclusão social, dispõe de gabinete de apoio ao imigrante, e promove ações em várias áreas, como educação e emprego.",
+      "es": "La Asociación Luso-Caboverdiana de Sintra (ACAS Sintra) inició su actividad en 2002 como entidad de intervención comunitaria que acoge, capacita e integra a poblaciones vulnerables del municipio de Sintra, actuando en las parroquias de Rio de Mouro y Algueirão-Mem Martins. Centrada en la inclusión social, dispone de una oficina de apoyo al inmigrante y promueve acciones en varias áreas, como la educación y el empleo.",
+      "en": "The Luso-Cape Verdean Association of Sintra (ACAS Sintra) began its work in 2002 as a community organisation that welcomes, empowers and integrates vulnerable populations in the municipality of Sintra, operating in the parishes of Rio de Mouro and Algueirão-Mem Martins. Focused on social inclusion, it runs an immigrant support office and promotes initiatives in areas such as education and employment."
+    }
   },
   {
     "id": 10,
@@ -345,7 +390,12 @@
       "fullAddress": "Casal da Mira, 2650-435 Amadora, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-MirAtiva.jpg",
-    "sobre": "Criada em 2014, a Associação MirAtiva está focada no fortalecimento comunitário e aumento da qualidade de vida da população do Casal da Mira, bem como na construção de uma imagem positiva do bairro. Nesse sentido, estimula relações de vizinhança e aposta numa programação intercultural e intergeracional de atividades, que passam pela promoção da saúde, lazer e bem-estar físico e mental. "
+    "sobre": "Criada em 2014, a Associação MirAtiva está focada no fortalecimento comunitário e aumento da qualidade de vida da população do Casal da Mira, bem como na construção de uma imagem positiva do bairro. Nesse sentido, estimula relações de vizinhança e aposta numa programação intercultural e intergeracional de atividades, que passam pela promoção da saúde, lazer e bem-estar físico e mental. ",
+    "sobre_i18n": {
+      "pt": "Criada em 2014, a Associação MirAtiva está focada no fortalecimento comunitário e aumento da qualidade de vida da população do Casal da Mira, bem como na construção de uma imagem positiva do bairro. Nesse sentido, estimula relações de vizinhança e aposta numa programação intercultural e intergeracional de atividades, que passam pela promoção da saúde, lazer e bem-estar físico e mental. ",
+      "es": "Creada en 2014, la Asociación MirAtiva se centra en el fortalecimiento comunitario y en el aumento de la calidad de vida de la población de Casal da Mira, así como en la construcción de una imagen positiva del barrio. Para ello, estimula las relaciones vecinales y apuesta por una programación intercultural e intergeneracional de actividades que incluyen la promoción de la salud, el ocio y el bienestar físico y mental.",
+      "en": "Founded in 2014, the MirAtiva Association works to strengthen the community and improve the quality of life of the people of Casal da Mira, as well as to build a positive image of the neighbourhood. It encourages neighbourly relations and runs an intercultural and intergenerational programme of activities promoting health, leisure and physical and mental wellbeing."
+    }
   },
   {
     "id": 11,
@@ -380,7 +430,12 @@
       "fullAddress": "Rua Travessa do Outeiro 1, Buraca, 2610-244 Amadora, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-Moinho-da-Juventude.jpg",
-    "sobre": "A Associação Cultural Moinho da Juventude desenvolve a sua intervenção comunitária desde 1985, envolvendo crianças, jovens, adultos e idosos em torno do lema “Um outro mundo é possível se a gente quiser”. Orientada para a criação de sinergias que estimulam a partilha de competências e a responsabilidade pessoal e grupal, dinamiza atividades a nível socioeducativo, sociocultural, socioprofissional, prestando informação e apoio jurídico e social. "
+    "sobre": "A Associação Cultural Moinho da Juventude desenvolve a sua intervenção comunitária desde 1985, envolvendo crianças, jovens, adultos e idosos em torno do lema “Um outro mundo é possível se a gente quiser”. Orientada para a criação de sinergias que estimulam a partilha de competências e a responsabilidade pessoal e grupal, dinamiza atividades a nível socioeducativo, sociocultural, socioprofissional, prestando informação e apoio jurídico e social. ",
+    "sobre_i18n": {
+      "pt": "A Associação Cultural Moinho da Juventude desenvolve a sua intervenção comunitária desde 1985, envolvendo crianças, jovens, adultos e idosos em torno do lema “Um outro mundo é possível se a gente quiser”. Orientada para a criação de sinergias que estimulam a partilha de competências e a responsabilidade pessoal e grupal, dinamiza atividades a nível socioeducativo, sociocultural, socioprofissional, prestando informação e apoio jurídico e social. ",
+      "es": "La Asociación Cultural Moinho da Juventude desarrolla su intervención comunitaria desde 1985, implicando a niños, jóvenes, adultos y mayores en torno al lema «Otro mundo es posible si queremos». Orientada a crear sinergias que estimulen el intercambio de competencias y la responsabilidad personal y colectiva, dinamiza actividades socioeducativas, socioculturales y socioprofesionales, y ofrece información y apoyo jurídico y social.",
+      "en": "The Moinho da Juventude Cultural Association has carried out community work since 1985, involving children, young people, adults and older people around the motto \"Another world is possible if we want it\". Focused on creating synergies that encourage skill-sharing and personal and collective responsibility, it runs socio-educational, socio-cultural and vocational activities and provides information and legal and social support."
+    }
   },
   {
     "id": 12,
@@ -415,7 +470,12 @@
       "fullAddress": "Rua Abel Fontoura da Costa, 2740-211 Porto Salvo, Oeiras, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-Moinho-em-Movimento.jpg",
-    "sobre": "Iniciada em 2009 por um grupo de jovens, a Associação Moinho em Movimento visa promover a integração dos moradores do Bairro Municipal Moinho das Rolas. Trabalha no apoio a crianças, jovens, famílias e idosos, destacando-se pela criação de equipamentos sociais que beneficiam a comunidade, e pela organização de atividades culturais, recreativas e desportivas. Sempre como foco em soluções e na dignificação humana."
+    "sobre": "Iniciada em 2009 por um grupo de jovens, a Associação Moinho em Movimento visa promover a integração dos moradores do Bairro Municipal Moinho das Rolas. Trabalha no apoio a crianças, jovens, famílias e idosos, destacando-se pela criação de equipamentos sociais que beneficiam a comunidade, e pela organização de atividades culturais, recreativas e desportivas. Sempre como foco em soluções e na dignificação humana.",
+    "sobre_i18n": {
+      "pt": "Iniciada em 2009 por um grupo de jovens, a Associação Moinho em Movimento visa promover a integração dos moradores do Bairro Municipal Moinho das Rolas. Trabalha no apoio a crianças, jovens, famílias e idosos, destacando-se pela criação de equipamentos sociais que beneficiam a comunidade, e pela organização de atividades culturais, recreativas e desportivas. Sempre como foco em soluções e na dignificação humana.",
+      "es": "Iniciada en 2009 por un grupo de jóvenes, la Asociación Moinho em Movimento busca promover la integración de los vecinos del Barrio Municipal Moinho das Rolas. Trabaja en el apoyo a niños, jóvenes, familias y mayores, y destaca por la creación de equipamientos sociales que benefician a la comunidad y por la organización de actividades culturales, recreativas y deportivas, siempre centrada en las soluciones y en la dignidad humana.",
+      "en": "Started in 2009 by a group of young people, the Moinho em Movimento Association promotes the integration of residents of the Moinho das Rolas municipal neighbourhood. It supports children, young people, families and older people, and stands out for creating social facilities that benefit the community and for organising cultural, recreational and sports activities, always focused on solutions and human dignity."
+    }
   },
   {
     "id": 13,
@@ -450,7 +510,12 @@
       "fullAddress": "Centro Comercial de Queluz, Avenida António Ennes 31, 2º Andar, 2745-067 Queluz, Sintra, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-Olho-Vivo.jpg",
-    "sobre": "Fundada em 1988, a Olho Vivo - Associação para a Defesa do Património, Ambiente e Direitos Humanos trabalha na defesa dos direitos das pessoas migrantes, promovendo mais justiça social e ambiental. Entre as suas atividades destaca-se o funcionamento do Centro Local de Apoio à Integração de Migrantes, bem como a oferta de projectos promotores da inclusão social de crianças e jovens, onde se inclui o apoio ao estudo."
+    "sobre": "Fundada em 1988, a Olho Vivo - Associação para a Defesa do Património, Ambiente e Direitos Humanos trabalha na defesa dos direitos das pessoas migrantes, promovendo mais justiça social e ambiental. Entre as suas atividades destaca-se o funcionamento do Centro Local de Apoio à Integração de Migrantes, bem como a oferta de projectos promotores da inclusão social de crianças e jovens, onde se inclui o apoio ao estudo.",
+    "sobre_i18n": {
+      "pt": "Fundada em 1988, a Olho Vivo - Associação para a Defesa do Património, Ambiente e Direitos Humanos trabalha na defesa dos direitos das pessoas migrantes, promovendo mais justiça social e ambiental. Entre as suas atividades destaca-se o funcionamento do Centro Local de Apoio à Integração de Migrantes, bem como a oferta de projectos promotores da inclusão social de crianças e jovens, onde se inclui o apoio ao estudo.",
+      "es": "Fundada en 1988, Olho Vivo – Asociación para la Defensa del Patrimonio, el Medio Ambiente y los Derechos Humanos trabaja en la defensa de los derechos de las personas migrantes, promoviendo una mayor justicia social y ambiental. Entre sus actividades destaca el Centro Local de Apoyo a la Integración de Migrantes, así como proyectos que promueven la inclusión social de niños y jóvenes, incluido el apoyo escolar.",
+      "en": "Founded in 1988, Olho Vivo – Association for the Defence of Heritage, the Environment and Human Rights defends the rights of migrants, promoting greater social and environmental justice. Its activities include running a Local Support Centre for Migrant Integration and projects that promote the social inclusion of children and young people, including homework support."
+    }
   },
   {
     "id": 14,
@@ -485,7 +550,12 @@
       "fullAddress": "Rua Marciano Henriques da Silva, 1600-878 Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-Passa-Sabi.jpg",
-    "sobre": "A Associação Passa Sabi surgiu em 2014, assumindo um papel cada vez mais ativo na mobilização, dinamização e valorização da comunidade do Bairro do Rêgo, em Lisboa. O seu programa de atividades inclui propostas culturais, sociais, económicas e desportivas, envolvendo crianças, jovens e população adulta, como forma de promover relações inter-geracionais, ao mesmo tempo que preserva e divulga a cultura dos residentes."
+    "sobre": "A Associação Passa Sabi surgiu em 2014, assumindo um papel cada vez mais ativo na mobilização, dinamização e valorização da comunidade do Bairro do Rêgo, em Lisboa. O seu programa de atividades inclui propostas culturais, sociais, económicas e desportivas, envolvendo crianças, jovens e população adulta, como forma de promover relações inter-geracionais, ao mesmo tempo que preserva e divulga a cultura dos residentes.",
+    "sobre_i18n": {
+      "pt": "A Associação Passa Sabi surgiu em 2014, assumindo um papel cada vez mais ativo na mobilização, dinamização e valorização da comunidade do Bairro do Rêgo, em Lisboa. O seu programa de atividades inclui propostas culturais, sociais, económicas e desportivas, envolvendo crianças, jovens e população adulta, como forma de promover relações inter-geracionais, ao mesmo tempo que preserva e divulga a cultura dos residentes.",
+      "es": "La Asociación Passa Sabi surgió en 2014 y ha asumido un papel cada vez más activo en la movilización, dinamización y valorización de la comunidad del Barrio do Rêgo, en Lisboa. Su programa incluye propuestas culturales, sociales, económicas y deportivas que implican a niños, jóvenes y adultos, como forma de promover las relaciones intergeneracionales, al tiempo que preserva y difunde la cultura de los residentes.",
+      "en": "The Passa Sabi Association was founded in 2014 and plays an increasingly active role in mobilising, energising and valuing the community of the Rêgo neighbourhood in Lisbon. Its programme includes cultural, social, economic and sports activities for children, young people and adults, promoting intergenerational relationships while preserving and sharing the residents' culture."
+    }
   },
   {
     "id": 15,
@@ -520,7 +590,12 @@
       "fullAddress": "Rua da Fundação D. Pedro IV 6, Loja, Mira Sintra, 2735-592 Sintra, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Casa-Seis-Associacao-para-o-Desenvolvimento-Comunitario.jpg",
-    "sobre": "A Casa Seis - Associação para o Desenvolvimento Comunitário tem sede em Mira Sintra, onde se propõe melhorar a qualidade de vida e as condições de inserção social da população local e arredores. Criada em 2000, atua segundo princípios de Educação para a Cidadania Ativa, permitindo que a população possa participar na sociedade como protagonista, exercendo plenamente os seus direitos."
+    "sobre": "A Casa Seis - Associação para o Desenvolvimento Comunitário tem sede em Mira Sintra, onde se propõe melhorar a qualidade de vida e as condições de inserção social da população local e arredores. Criada em 2000, atua segundo princípios de Educação para a Cidadania Ativa, permitindo que a população possa participar na sociedade como protagonista, exercendo plenamente os seus direitos.",
+    "sobre_i18n": {
+      "pt": "A Casa Seis - Associação para o Desenvolvimento Comunitário tem sede em Mira Sintra, onde se propõe melhorar a qualidade de vida e as condições de inserção social da população local e arredores. Criada em 2000, atua segundo princípios de Educação para a Cidadania Ativa, permitindo que a população possa participar na sociedade como protagonista, exercendo plenamente os seus direitos.",
+      "es": "Casa Seis – Asociación para el Desarrollo Comunitario tiene su sede en Mira Sintra, donde se propone mejorar la calidad de vida y las condiciones de inserción social de la población local y de los alrededores. Creada en 2000, actúa según los principios de la Educación para la Ciudadanía Activa, permitiendo que la población participe en la sociedad como protagonista y ejerza plenamente sus derechos.",
+      "en": "Casa Seis – Association for Community Development is based in Mira Sintra, where it works to improve the quality of life and social inclusion of the local and surrounding population. Founded in 2000, it follows the principles of Education for Active Citizenship, enabling people to take a leading role in society and fully exercise their rights."
+    }
   },
   {
     "id": 16,
@@ -555,7 +630,12 @@
       "fullAddress": "Avenida da Bela Vista, Loja 19, C 31, 2910-421 Setúbal, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Centro-Cultural-de-Cabo-Verde.jpg",
-    "sobre": "Desde 1997 a intervir no Bairro da Bela Vista, em Setúbal, o Centro Cultural Africano (CCA) trabalha com crianças de todas as idades, e dá apoio a grupos mais desfavorecidos. Para além das atividades destinadas ao público infantil, onde se inclui o apoio ao estudo, e propostas lúdicas, o espaço dinamiza programação cultural, como por exemplo, exposições, tendo também experiência na orientação e procura de emprego."
+    "sobre": "Desde 1997 a intervir no Bairro da Bela Vista, em Setúbal, o Centro Cultural Africano (CCA) trabalha com crianças de todas as idades, e dá apoio a grupos mais desfavorecidos. Para além das atividades destinadas ao público infantil, onde se inclui o apoio ao estudo, e propostas lúdicas, o espaço dinamiza programação cultural, como por exemplo, exposições, tendo também experiência na orientação e procura de emprego.",
+    "sobre_i18n": {
+      "pt": "Desde 1997 a intervir no Bairro da Bela Vista, em Setúbal, o Centro Cultural Africano (CCA) trabalha com crianças de todas as idades, e dá apoio a grupos mais desfavorecidos. Para além das atividades destinadas ao público infantil, onde se inclui o apoio ao estudo, e propostas lúdicas, o espaço dinamiza programação cultural, como por exemplo, exposições, tendo também experiência na orientação e procura de emprego.",
+      "es": "Desde 1997 interviene en el Barrio de Bela Vista, en Setúbal: el Centro Cultural Africano (CCA) trabaja con niños de todas las edades y apoya a los grupos más desfavorecidos. Además de las actividades dirigidas al público infantil, que incluyen apoyo escolar y propuestas lúdicas, el espacio ofrece programación cultural, como exposiciones, y tiene también experiencia en orientación y búsqueda de empleo.",
+      "en": "Working in the Bela Vista neighbourhood of Setúbal since 1997, the African Cultural Centre (CCA) works with children of all ages and supports the most disadvantaged groups. Besides activities for children, including homework support and play, the space runs a cultural programme, such as exhibitions, and also has experience in career guidance and job-seeking."
+    }
   },
   {
     "id": 17,
@@ -590,7 +670,12 @@
       "fullAddress": "Rua das Minas 11, Loja A, 2610-111 Amadora, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Cooperativa-de-Desenvolvimento-Social-COOPERACTIVA.jpg",
-    "sobre": "A CooperActiva - Cooperativa de Desenvolvimento Social intervém na defesa dos direitos de grupos em contextos de exclusão social, lutando contra a discriminação e violência. A partilha é um dos valores que promove, mediante a implementação de processos de tomada de decisão participada e democrática, sendo que a sua origem, em 2002, resulta do trabalho desenvolvido pelo CESIS – Centro de Estudos para a Intervenção Social."
+    "sobre": "A CooperActiva - Cooperativa de Desenvolvimento Social intervém na defesa dos direitos de grupos em contextos de exclusão social, lutando contra a discriminação e violência. A partilha é um dos valores que promove, mediante a implementação de processos de tomada de decisão participada e democrática, sendo que a sua origem, em 2002, resulta do trabalho desenvolvido pelo CESIS – Centro de Estudos para a Intervenção Social.",
+    "sobre_i18n": {
+      "pt": "A CooperActiva - Cooperativa de Desenvolvimento Social intervém na defesa dos direitos de grupos em contextos de exclusão social, lutando contra a discriminação e violência. A partilha é um dos valores que promove, mediante a implementação de processos de tomada de decisão participada e democrática, sendo que a sua origem, em 2002, resulta do trabalho desenvolvido pelo CESIS – Centro de Estudos para a Intervenção Social.",
+      "es": "CooperActiva – Cooperativa de Desarrollo Social interviene en la defensa de los derechos de grupos en contextos de exclusión social, luchando contra la discriminación y la violencia. El compartir es uno de los valores que promueve, mediante procesos de toma de decisiones participativos y democráticos. Su origen, en 2002, es fruto del trabajo desarrollado por el CESIS – Centro de Estudios para la Intervención Social.",
+      "en": "CooperActiva – Social Development Cooperative defends the rights of groups facing social exclusion, fighting discrimination and violence. Sharing is one of the values it promotes, through participatory and democratic decision-making. It was founded in 2002 as a result of the work of CESIS – Centre for Studies for Social Intervention."
+    }
   },
   {
     "id": 18,
@@ -625,7 +710,12 @@
       "fullAddress": "Rua Manuel de Arriaga, Lt-1342, 3º Dto, 2975-329 Quinta do Conde, Sesimbra, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-Fundo-de-Apoio-Social-de-Cabo-Verdianos-em-Portugal-FASCP.jpg",
-    "sobre": "Fundada em 2003, a Associação Fundo de Apoio Social de Cabo-Verdianos em Portugal (FASCP) dirige a sua intervenção para ações de cooperação, desenvolvimento e ajuda humanitária, incluindo o apoio a doentes e reclusos, a capitação de jovens e a organização de conferências. Os objetivos passam também pela consolidação de laços entre a comunidade cabo-verdiana em Portugal e demais população."
+    "sobre": "Fundada em 2003, a Associação Fundo de Apoio Social de Cabo-Verdianos em Portugal (FASCP) dirige a sua intervenção para ações de cooperação, desenvolvimento e ajuda humanitária, incluindo o apoio a doentes e reclusos, a capitação de jovens e a organização de conferências. Os objetivos passam também pela consolidação de laços entre a comunidade cabo-verdiana em Portugal e demais população.",
+    "sobre_i18n": {
+      "pt": "Fundada em 2003, a Associação Fundo de Apoio Social de Cabo-Verdianos em Portugal (FASCP) dirige a sua intervenção para ações de cooperação, desenvolvimento e ajuda humanitária, incluindo o apoio a doentes e reclusos, a capitação de jovens e a organização de conferências. Os objetivos passam também pela consolidação de laços entre a comunidade cabo-verdiana em Portugal e demais população.",
+      "es": "Fundada en 2003, la Asociación Fondo de Apoyo Social de Caboverdianos en Portugal (FASCP) dirige su intervención a acciones de cooperación, desarrollo y ayuda humanitaria, incluido el apoyo a enfermos y reclusos, la capacitación de jóvenes y la organización de conferencias. Sus objetivos incluyen también la consolidación de los lazos entre la comunidad caboverdiana en Portugal y el resto de la población.",
+      "en": "Founded in 2003, the Social Support Fund Association for Cape Verdeans in Portugal (FASCP) works on cooperation, development and humanitarian aid, including support for patients and prisoners, training for young people and organising conferences. It also aims to strengthen ties between the Cape Verdean community in Portugal and the wider population."
+    }
   },
   {
     "id": 19,
@@ -660,7 +750,12 @@
       "fullAddress": "Rua Amigos de Lisboa, 1950-307 Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-de-Mulheres-Negras-Africanas-e-Afrodescendentes-em-Portugal-FEMAFRO.jpg",
-    "sobre": "A Associação de Mulheres Negras, Africanas e Afrodescendentes em Portugal (FEMAFRO) orienta a sua intervenção para a defesa e promoção de direitos das mulheres negras, africanas e afro descendentes em Portugal, procurando a eliminação de todas as formas de discriminação étnico-racial e de género, com base nos princípios éticos da igualdade, justiça social e laboral, promoção da qualidade de vida e respeito dos direitos humanos."
+    "sobre": "A Associação de Mulheres Negras, Africanas e Afrodescendentes em Portugal (FEMAFRO) orienta a sua intervenção para a defesa e promoção de direitos das mulheres negras, africanas e afro descendentes em Portugal, procurando a eliminação de todas as formas de discriminação étnico-racial e de género, com base nos princípios éticos da igualdade, justiça social e laboral, promoção da qualidade de vida e respeito dos direitos humanos.",
+    "sobre_i18n": {
+      "pt": "A Associação de Mulheres Negras, Africanas e Afrodescendentes em Portugal (FEMAFRO) orienta a sua intervenção para a defesa e promoção de direitos das mulheres negras, africanas e afro descendentes em Portugal, procurando a eliminação de todas as formas de discriminação étnico-racial e de género, com base nos princípios éticos da igualdade, justiça social e laboral, promoção da qualidade de vida e respeito dos direitos humanos.",
+      "es": "La Asociación de Mujeres Negras, Africanas y Afrodescendientes en Portugal (FEMAFRO) orienta su intervención a la defensa y promoción de los derechos de las mujeres negras, africanas y afrodescendientes en Portugal, buscando la eliminación de todas las formas de discriminación étnico-racial y de género, con base en los principios éticos de la igualdad, la justicia social y laboral, la calidad de vida y el respeto de los derechos humanos.",
+      "en": "The Association of Black, African and Afro-descendant Women in Portugal (FEMAFRO) defends and promotes the rights of Black, African and Afro-descendant women in Portugal, working to eliminate all forms of ethnic-racial and gender discrimination, based on the ethical principles of equality, social and labour justice, quality of life and respect for human rights."
+    }
   },
   {
     "id": 20,
@@ -695,7 +790,12 @@
       "fullAddress": "Rua 4, Cidade Sol, 2835-509 Santo António da Charneca, Barreiro, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2026/02/NA.jpg",
-    "sobre": "A Associação dos Filhos e Amigos da Ilha das Galinhas - GHAM-ATHÉ é uma das entidades reconhecidas em Diário da República como associação representativa dos imigrantes e seus descendentes, estatuto atribuído em 2013. Baseada no município do Barreiro, tem atuado como parceira da autarquia, nomeadamente na realização do Festival Encontro de Culturas - Cores, Sons, Sabores e Saberes."
+    "sobre": "A Associação dos Filhos e Amigos da Ilha das Galinhas - GHAM-ATHÉ é uma das entidades reconhecidas em Diário da República como associação representativa dos imigrantes e seus descendentes, estatuto atribuído em 2013. Baseada no município do Barreiro, tem atuado como parceira da autarquia, nomeadamente na realização do Festival Encontro de Culturas - Cores, Sons, Sabores e Saberes.",
+    "sobre_i18n": {
+      "pt": "A Associação dos Filhos e Amigos da Ilha das Galinhas - GHAM-ATHÉ é uma das entidades reconhecidas em Diário da República como associação representativa dos imigrantes e seus descendentes, estatuto atribuído em 2013. Baseada no município do Barreiro, tem atuado como parceira da autarquia, nomeadamente na realização do Festival Encontro de Culturas - Cores, Sons, Sabores e Saberes.",
+      "es": "La Asociación de los Hijos y Amigos de la Isla de las Gallinas – GHAM-ATHÉ es una de las entidades reconocidas en el Diário da República como asociación representativa de los inmigrantes y sus descendientes, estatus que obtuvo en 2013. Con sede en el municipio de Barreiro, ha actuado como socia del ayuntamiento, en particular en la organización del Festival Encuentro de Culturas – Colores, Sonidos, Sabores y Saberes.",
+      "en": "The Association of Children and Friends of Galinhas Island – GHAM-ATHÉ is officially recognised in the Diário da República as an association representing immigrants and their descendants, a status granted in 2013. Based in the municipality of Barreiro, it has worked as a partner of the local council, notably in organising the Meeting of Cultures Festival – Colours, Sounds, Flavours and Knowledge."
+    }
   },
   {
     "id": 21,
@@ -730,7 +830,12 @@
       "fullAddress": "Rua da Silva 1, 1200-649 Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Girassol-Solidario-Associacao-de-Apoio-aos-Doentes-Evacuados-de-Cabo-Verde.jpg",
-    "sobre": "Formalizada em 2007, a Girassol Solidário - Associação de Apoio aos Doentes Evacuados de Cabo Verde atua junto dos cidadãos evacuados de Cabo Verde, residentes na Área Metropolitana de Lisboa, contribuindo para uma melhor integração dos doentes no território nacional, com ações de carácter humanitário, psicossocial, lúdico, e de mediação intercultural. Apoia cerca de 100 pessoas, entre doentes e acompanhantes."
+    "sobre": "Formalizada em 2007, a Girassol Solidário - Associação de Apoio aos Doentes Evacuados de Cabo Verde atua junto dos cidadãos evacuados de Cabo Verde, residentes na Área Metropolitana de Lisboa, contribuindo para uma melhor integração dos doentes no território nacional, com ações de carácter humanitário, psicossocial, lúdico, e de mediação intercultural. Apoia cerca de 100 pessoas, entre doentes e acompanhantes.",
+    "sobre_i18n": {
+      "pt": "Formalizada em 2007, a Girassol Solidário - Associação de Apoio aos Doentes Evacuados de Cabo Verde atua junto dos cidadãos evacuados de Cabo Verde, residentes na Área Metropolitana de Lisboa, contribuindo para uma melhor integração dos doentes no território nacional, com ações de carácter humanitário, psicossocial, lúdico, e de mediação intercultural. Apoia cerca de 100 pessoas, entre doentes e acompanhantes.",
+      "es": "Formalizada en 2007, Girassol Solidário – Asociación de Apoyo a los Enfermos Evacuados de Cabo Verde trabaja con los ciudadanos evacuados de Cabo Verde residentes en el Área Metropolitana de Lisboa, contribuyendo a una mejor integración de los enfermos en el territorio nacional mediante acciones de carácter humanitario, psicosocial, lúdico y de mediación intercultural. Apoya a unas 100 personas, entre enfermos y acompañantes.",
+      "en": "Formally established in 2007, Girassol Solidário – Association for the Support of Patients Evacuated from Cape Verde works with Cape Verdean citizens evacuated for medical treatment and living in the Lisbon Metropolitan Area, helping patients integrate in Portugal through humanitarian, psychosocial, recreational and intercultural mediation activities. It supports around 100 people, including patients and their companions."
+    }
   },
   {
     "id": 22,
@@ -765,7 +870,12 @@
       "fullAddress": "Travessa do Corpo Santo 21, 2º andar, 1200-131 Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/GTO-LX-Grupo-Teatro-do-Oprimido-Lisboa.jpg",
-    "sobre": "GTO LX - Grupo Teatro do Oprimido Lisboa atua desde 2003, embora a formalização como associação remonte a 2005. Apresenta-se como uma organização empenhada em estimular a participação ativa e consciente das pessoas na construção da sociedade, desenvolvendo projetos de intervenção comunitária, através das técnicas de Teatro do/a Oprimido/a. Tem como visão uma sociedade mais justa e plural."
+    "sobre": "GTO LX - Grupo Teatro do Oprimido Lisboa atua desde 2003, embora a formalização como associação remonte a 2005. Apresenta-se como uma organização empenhada em estimular a participação ativa e consciente das pessoas na construção da sociedade, desenvolvendo projetos de intervenção comunitária, através das técnicas de Teatro do/a Oprimido/a. Tem como visão uma sociedade mais justa e plural.",
+    "sobre_i18n": {
+      "pt": "GTO LX - Grupo Teatro do Oprimido Lisboa atua desde 2003, embora a formalização como associação remonte a 2005. Apresenta-se como uma organização empenhada em estimular a participação ativa e consciente das pessoas na construção da sociedade, desenvolvendo projetos de intervenção comunitária, através das técnicas de Teatro do/a Oprimido/a. Tem como visão uma sociedade mais justa e plural.",
+      "es": "GTO LX – Grupo de Teatro del Oprimido de Lisboa actúa desde 2003, aunque se formalizó como asociación en 2005. Se presenta como una organización comprometida con estimular la participación activa y consciente de las personas en la construcción de la sociedad, desarrollando proyectos de intervención comunitaria a través de las técnicas del Teatro del Oprimido. Su visión es una sociedad más justa y plural.",
+      "en": "GTO LX – Theatre of the Oppressed Group Lisbon has been active since 2003, although it was formally registered as an association in 2005. It is committed to encouraging people's active and conscious participation in building society, developing community projects using Theatre of the Oppressed techniques. Its vision is a fairer and more plural society."
+    }
   },
   {
     "id": 23,
@@ -800,7 +910,12 @@
       "fullAddress": "Rua da Paz 58, 1200-319 Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Instituto-da-Mulher-Negra-em-Portugal-INMUNE.jpg",
-    "sobre": "Estabelecido em 2018, o Instituto da Mulher Negra em Portugal (INMUNE) apresenta-se como uma entidade feminista interseccional e anti-racista, que combate a invisibilização e o silenciamento das mulheres negras, africanas e afrodescendentes na História e no presente. Apartidário e solidário, promove a igualdade de direitos, a paridade e a justiça social, bem como empoderamento e a participação social e política feminina."
+    "sobre": "Estabelecido em 2018, o Instituto da Mulher Negra em Portugal (INMUNE) apresenta-se como uma entidade feminista interseccional e anti-racista, que combate a invisibilização e o silenciamento das mulheres negras, africanas e afrodescendentes na História e no presente. Apartidário e solidário, promove a igualdade de direitos, a paridade e a justiça social, bem como empoderamento e a participação social e política feminina.",
+    "sobre_i18n": {
+      "pt": "Estabelecido em 2018, o Instituto da Mulher Negra em Portugal (INMUNE) apresenta-se como uma entidade feminista interseccional e anti-racista, que combate a invisibilização e o silenciamento das mulheres negras, africanas e afrodescendentes na História e no presente. Apartidário e solidário, promove a igualdade de direitos, a paridade e a justiça social, bem como empoderamento e a participação social e política feminina.",
+      "es": "Creado en 2018, el Instituto de la Mujer Negra en Portugal (INMUNE) se presenta como una entidad feminista interseccional y antirracista que combate la invisibilización y el silenciamiento de las mujeres negras, africanas y afrodescendientes en la historia y en el presente. Apartidista y solidario, promueve la igualdad de derechos, la paridad y la justicia social, así como el empoderamiento y la participación social y política de las mujeres.",
+      "en": "Established in 2018, the Black Women's Institute in Portugal (INMUNE) is an intersectional, anti-racist feminist organisation that fights the erasure and silencing of Black, African and Afro-descendant women in history and today. Non-partisan and grounded in solidarity, it promotes equal rights, parity and social justice, as well as women's empowerment and social and political participation."
+    }
   },
   {
     "id": 24,
@@ -835,7 +950,12 @@
       "fullAddress": "Rua Botelho de Vasconcelos, Lote 564, 1º Piso B, Bairro do Condado - Chelas, 1950-045 Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Liafrica-Liga-dos-Africanos-e-Amigos-de-Africa.jpg",
-    "sobre": "A Liáfrica - Liga dos Africanos e Amigos de África vem desenvolvendo, desde a fundação, em 1999, atividades de formação, nomeadamente nos domínios da Educação para a Saúde, na Área Social e na Área Científica. A sua intervenção tem incluído também conferências e congressos, tanto em Portugal como em Angola, contribuindo para a integração da comunidade africana, em particular angolana, em território luso."
+    "sobre": "A Liáfrica - Liga dos Africanos e Amigos de África vem desenvolvendo, desde a fundação, em 1999, atividades de formação, nomeadamente nos domínios da Educação para a Saúde, na Área Social e na Área Científica. A sua intervenção tem incluído também conferências e congressos, tanto em Portugal como em Angola, contribuindo para a integração da comunidade africana, em particular angolana, em território luso.",
+    "sobre_i18n": {
+      "pt": "A Liáfrica - Liga dos Africanos e Amigos de África vem desenvolvendo, desde a fundação, em 1999, atividades de formação, nomeadamente nos domínios da Educação para a Saúde, na Área Social e na Área Científica. A sua intervenção tem incluído também conferências e congressos, tanto em Portugal como em Angola, contribuindo para a integração da comunidade africana, em particular angolana, em território luso.",
+      "es": "Liáfrica – Liga de los Africanos y Amigos de África desarrolla desde su fundación, en 1999, actividades de formación, especialmente en los ámbitos de la educación para la salud, el área social y el área científica. Su intervención ha incluido también conferencias y congresos, tanto en Portugal como en Angola, contribuyendo a la integración de la comunidad africana, en particular angoleña, en territorio portugués.",
+      "en": "Liáfrica – League of Africans and Friends of Africa has run training activities since its founding in 1999, notably in health education, social work and science. Its work has also included conferences and congresses in both Portugal and Angola, contributing to the integration of the African community, particularly Angolans, in Portugal."
+    }
   },
   {
     "id": 25,
@@ -870,7 +990,12 @@
       "fullAddress": "Estrada do Concelho 31, 2705-572 Terrugem, Sintra, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Plataforma-para-o-Desenvolvimento-da-Mulher-Africana-Padema.jpg",
-    "sobre": "Criada em 2016, a Plataforma para o Desenvolvimento da Mulher Africana (Padema) desenvolve a sua intervenção centrada na Mulher Africana diaspórica, nos seus valores culturais e identitários, com vista à sua afirmação na sociedade, tendo em conta a igualdade de género e de oportunidades. Tem-se destacado na organização na FAMA – Feira da Mulher Africana, que celebra, anualmente, o Dia da Mulher Africana."
+    "sobre": "Criada em 2016, a Plataforma para o Desenvolvimento da Mulher Africana (Padema) desenvolve a sua intervenção centrada na Mulher Africana diaspórica, nos seus valores culturais e identitários, com vista à sua afirmação na sociedade, tendo em conta a igualdade de género e de oportunidades. Tem-se destacado na organização na FAMA – Feira da Mulher Africana, que celebra, anualmente, o Dia da Mulher Africana.",
+    "sobre_i18n": {
+      "pt": "Criada em 2016, a Plataforma para o Desenvolvimento da Mulher Africana (Padema) desenvolve a sua intervenção centrada na Mulher Africana diaspórica, nos seus valores culturais e identitários, com vista à sua afirmação na sociedade, tendo em conta a igualdade de género e de oportunidades. Tem-se destacado na organização na FAMA – Feira da Mulher Africana, que celebra, anualmente, o Dia da Mulher Africana.",
+      "es": "Creada en 2016, la Plataforma para el Desarrollo de la Mujer Africana (Padema) centra su intervención en la mujer africana de la diáspora, en sus valores culturales e identitarios, con vistas a su afirmación en la sociedad, teniendo en cuenta la igualdad de género y de oportunidades. Ha destacado por la organización de FAMA – Feria de la Mujer Africana, que celebra cada año el Día de la Mujer Africana.",
+      "en": "Founded in 2016, the Platform for the Development of African Women (Padema) focuses on diasporic African women and their cultural and identity values, supporting their place in society with regard to gender equality and equal opportunities. It is known for organising FAMA – African Women's Fair, which celebrates African Women's Day every year."
+    }
   },
   {
     "id": 26,
@@ -905,7 +1030,12 @@
       "fullAddress": "Praceta do Miradouro, 2745-215 Queluz, Sintra, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Pendao-em-Movimento-Espaco-Comunitario.jpg",
-    "sobre": "O Pendão em Movimento - Espaço Comunitário agrega, nas suas instalações, moradores, grupos informais, associações de base local, uma área de empreendedorismo social e instituições privadas de solidariedade social. A primeira reunião de cogestão do espaço, para abertura de portas, aconteceu em 2015, ano marcado também pela organização da 1.ª edição do Festival Pendão em Movimento, realizado em 2016."
+    "sobre": "O Pendão em Movimento - Espaço Comunitário agrega, nas suas instalações, moradores, grupos informais, associações de base local, uma área de empreendedorismo social e instituições privadas de solidariedade social. A primeira reunião de cogestão do espaço, para abertura de portas, aconteceu em 2015, ano marcado também pela organização da 1.ª edição do Festival Pendão em Movimento, realizado em 2016.",
+    "sobre_i18n": {
+      "pt": "O Pendão em Movimento - Espaço Comunitário agrega, nas suas instalações, moradores, grupos informais, associações de base local, uma área de empreendedorismo social e instituições privadas de solidariedade social. A primeira reunião de cogestão do espaço, para abertura de portas, aconteceu em 2015, ano marcado também pela organização da 1.ª edição do Festival Pendão em Movimento, realizado em 2016.",
+      "es": "Pendão em Movimento – Espacio Comunitario reúne en sus instalaciones a vecinos, grupos informales, asociaciones de base local, un área de emprendimiento social e instituciones privadas de solidaridad social. La primera reunión de cogestión del espacio, para su apertura, tuvo lugar en 2015, año marcado también por la organización de la 1.ª edición del Festival Pendão em Movimento, celebrado en 2016.",
+      "en": "Pendão em Movimento – Community Space brings together residents, informal groups, local grassroots associations, a social entrepreneurship area and private social solidarity institutions under one roof. The first co-management meeting to open the space took place in 2015, the same year the first Pendão em Movimento Festival was organised, held in 2016."
+    }
   },
   {
     "id": 27,
@@ -940,7 +1070,12 @@
       "fullAddress": "Largo Francisco Lucas Pires 9, 3º direito, 2780-158 Oeiras, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Pombal-XXI-Associacao-dos-Moradores-Bairros-Pombal-Bento-Jesus-Caraca.jpg",
-    "sobre": "A Pombal XXI - Associação dos Moradores Bairros Pombal / Bento Jesus Caraça nasceu em 2005 como entidade sem fins lucrativos, que tem como objeto social a promoção da emancipação social, cívica e cultural das comunidades dos Bairros do Pombal e Bento de Jesus Caraça, situados no concelho de Oeiras. A sua intervenção está focada em quatro áreas: educação, desporto, ação social e cultura. "
+    "sobre": "A Pombal XXI - Associação dos Moradores Bairros Pombal / Bento Jesus Caraça nasceu em 2005 como entidade sem fins lucrativos, que tem como objeto social a promoção da emancipação social, cívica e cultural das comunidades dos Bairros do Pombal e Bento de Jesus Caraça, situados no concelho de Oeiras. A sua intervenção está focada em quatro áreas: educação, desporto, ação social e cultura. ",
+    "sobre_i18n": {
+      "pt": "A Pombal XXI - Associação dos Moradores Bairros Pombal / Bento Jesus Caraça nasceu em 2005 como entidade sem fins lucrativos, que tem como objeto social a promoção da emancipação social, cívica e cultural das comunidades dos Bairros do Pombal e Bento de Jesus Caraça, situados no concelho de Oeiras. A sua intervenção está focada em quatro áreas: educação, desporto, ação social e cultura. ",
+      "es": "Pombal XXI – Asociación de Vecinos de los Barrios Pombal / Bento Jesus Caraça nació en 2005 como entidad sin ánimo de lucro con el objetivo de promover la emancipación social, cívica y cultural de las comunidades de los barrios de Pombal y Bento de Jesus Caraça, en el municipio de Oeiras. Su intervención se centra en cuatro áreas: educación, deporte, acción social y cultura.",
+      "en": "Pombal XXI – Residents' Association of the Pombal / Bento Jesus Caraça Neighbourhoods was founded in 2005 as a non-profit to promote the social, civic and cultural empowerment of the communities of the Pombal and Bento de Jesus Caraça neighbourhoods in the municipality of Oeiras. Its work focuses on four areas: education, sport, social action and culture."
+    }
   },
   {
     "id": 28,
@@ -975,7 +1110,12 @@
       "fullAddress": "Rua Arnaldo Assis Pacheco, Lote 1A, Zona B, 1750-395 Ameixoeira, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2026/02/NA.jpg",
-    "sobre": "Criada em 2012, a PROSAUDESC- Associação de Promotores de Saúde, Ambiente e Desenvolvimento Sócio-Cultural tem como missão a promoção da saúde e a ação social, voltada para o empoderamento das comunidades, através de iniciativas e projetos que visam informar, mobilizar, envolver e apoiar os mais desfavorecidos e vulneráveis, promovendo a integração e inclusão sociais, bem como estilos de vida mais saudáveis."
+    "sobre": "Criada em 2012, a PROSAUDESC- Associação de Promotores de Saúde, Ambiente e Desenvolvimento Sócio-Cultural tem como missão a promoção da saúde e a ação social, voltada para o empoderamento das comunidades, através de iniciativas e projetos que visam informar, mobilizar, envolver e apoiar os mais desfavorecidos e vulneráveis, promovendo a integração e inclusão sociais, bem como estilos de vida mais saudáveis.",
+    "sobre_i18n": {
+      "pt": "Criada em 2012, a PROSAUDESC- Associação de Promotores de Saúde, Ambiente e Desenvolvimento Sócio-Cultural tem como missão a promoção da saúde e a ação social, voltada para o empoderamento das comunidades, através de iniciativas e projetos que visam informar, mobilizar, envolver e apoiar os mais desfavorecidos e vulneráveis, promovendo a integração e inclusão sociais, bem como estilos de vida mais saudáveis.",
+      "es": "Creada en 2012, PROSAUDESC – Asociación de Promotores de Salud, Medio Ambiente y Desarrollo Sociocultural tiene como misión la promoción de la salud y la acción social orientada al empoderamiento de las comunidades, mediante iniciativas y proyectos que buscan informar, movilizar, implicar y apoyar a los más desfavorecidos y vulnerables, promoviendo la integración e inclusión sociales y estilos de vida más saludables.",
+      "en": "Founded in 2012, PROSAUDESC – Association of Health, Environment and Socio-Cultural Development Promoters works on health promotion and social action aimed at empowering communities, through initiatives that inform, mobilise, involve and support the most disadvantaged and vulnerable, promoting social integration and inclusion and healthier lifestyles."
+    }
   },
   {
     "id": 29,
@@ -1010,7 +1150,12 @@
       "fullAddress": "Rua António Gedeão, Lote B3, 1950-151 Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-Cultural-e-Juvenil-Batoto-Yetu-Portugal-BYP.jpg",
-    "sobre": "Fundada em 1996, a Associação Cultural e Juvenil Batoto Yetu Portugal (BYP) atua no domínio da educação não formal, particularmente na área da inclusão através da arte e iniciativas de organização comunitária e promoção da cidadania. O seu trabalho incide sobretudo sobre jovens e crianças interessados na cultura africana e provenientes de meios económicos menos favorecidos, estimulando as suas competências de liderança."
+    "sobre": "Fundada em 1996, a Associação Cultural e Juvenil Batoto Yetu Portugal (BYP) atua no domínio da educação não formal, particularmente na área da inclusão através da arte e iniciativas de organização comunitária e promoção da cidadania. O seu trabalho incide sobretudo sobre jovens e crianças interessados na cultura africana e provenientes de meios económicos menos favorecidos, estimulando as suas competências de liderança.",
+    "sobre_i18n": {
+      "pt": "Fundada em 1996, a Associação Cultural e Juvenil Batoto Yetu Portugal (BYP) atua no domínio da educação não formal, particularmente na área da inclusão através da arte e iniciativas de organização comunitária e promoção da cidadania. O seu trabalho incide sobretudo sobre jovens e crianças interessados na cultura africana e provenientes de meios económicos menos favorecidos, estimulando as suas competências de liderança.",
+      "es": "Fundada en 1996, la Asociación Cultural y Juvenil Batoto Yetu Portugal (BYP) actúa en el ámbito de la educación no formal, en particular en la inclusión a través del arte y en iniciativas de organización comunitaria y promoción de la ciudadanía. Su trabajo se dirige sobre todo a jóvenes y niños interesados en la cultura africana y procedentes de entornos económicos menos favorecidos, estimulando sus capacidades de liderazgo.",
+      "en": "Founded in 1996, the Batoto Yetu Portugal Cultural and Youth Association (BYP) works in non-formal education, particularly inclusion through the arts, community organising and citizenship. Its work mainly involves children and young people interested in African culture and from less advantaged backgrounds, developing their leadership skills."
+    }
   },
   {
     "id": 30,
@@ -1045,7 +1190,12 @@
       "fullAddress": "Rua Jacinto Baptista 4B, Casal de São Brás, 2700-792 Amadora, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-Cavaleiros-de-Sao-Bras.jpg",
-    "sobre": "No terreno desde 2005, a Associação Cavaleiros de São Brás está sediada no Casal da Boba, bairro de habitação municipal do concelho da Amadora, onde vem promovendo eventos locais, como o Boba Li Ke Terra. Esta celebração assinala, em Julho, o Dia da Independência de Cabo Verde, e pretende criar sinergias e ações de formação para trazer grupos de teatro, de investigação, intervenção para a cidadania e ativismo ao bairro. "
+    "sobre": "No terreno desde 2005, a Associação Cavaleiros de São Brás está sediada no Casal da Boba, bairro de habitação municipal do concelho da Amadora, onde vem promovendo eventos locais, como o Boba Li Ke Terra. Esta celebração assinala, em Julho, o Dia da Independência de Cabo Verde, e pretende criar sinergias e ações de formação para trazer grupos de teatro, de investigação, intervenção para a cidadania e ativismo ao bairro. ",
+    "sobre_i18n": {
+      "pt": "No terreno desde 2005, a Associação Cavaleiros de São Brás está sediada no Casal da Boba, bairro de habitação municipal do concelho da Amadora, onde vem promovendo eventos locais, como o Boba Li Ke Terra. Esta celebração assinala, em Julho, o Dia da Independência de Cabo Verde, e pretende criar sinergias e ações de formação para trazer grupos de teatro, de investigação, intervenção para a cidadania e ativismo ao bairro. ",
+      "es": "Presente en el terreno desde 2005, la Asociación Cavaleiros de São Brás tiene su sede en Casal da Boba, barrio de vivienda municipal de Amadora, donde promueve eventos locales como Boba Li Ke Terra. Esta celebración conmemora en julio el Día de la Independencia de Cabo Verde y busca crear sinergias y acciones de formación para llevar al barrio grupos de teatro, investigación, intervención ciudadana y activismo.",
+      "en": "Active since 2005, the Cavaleiros de São Brás Association is based in Casal da Boba, a municipal housing neighbourhood in Amadora, where it organises local events such as Boba Li Ke Terra. This July celebration marks Cape Verde's Independence Day and aims to create synergies and training that bring theatre, research, civic engagement and activist groups to the neighbourhood."
+    }
   },
   {
     "id": 31,
@@ -1080,7 +1230,12 @@
       "fullAddress": "Teatro Maria Matos, Rua Bulhão Pato 1B, 1700-081 Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Grupo-EducAR-–-Plataforma-de-Educadores-Antirracistas.jpg",
-    "sobre": "O Grupo EducAR é um grupo multidisciplinar de educadores antirracistas que pensam e fazem uma Educação Antirracista desde 2018 com o objetivo de (re)pensar a Educação dentro e fora da escola com um compromisso antirracista a partir da realidade social portuguesa e do seu diálogo com experiências africanas, afrobrasileiras e afrodiaspórica. Trabalhamos com diferentes abordagens temáticas e formatos para diferentes espaços e públicos tendo a arte-educação como meio e fim neste processo – individual e coletivo; uno e contínuo – de construção da consciência histórica, de prevenção/combate ao comportamento/pensamento racista e discriminatório e de garantia dos direitos humanos ao exercitar compromissos nacionais e internacionais."
+    "sobre": "O Grupo EducAR é um grupo multidisciplinar de educadores antirracistas que pensam e fazem uma Educação Antirracista desde 2018 com o objetivo de (re)pensar a Educação dentro e fora da escola com um compromisso antirracista a partir da realidade social portuguesa e do seu diálogo com experiências africanas, afrobrasileiras e afrodiaspórica. Trabalhamos com diferentes abordagens temáticas e formatos para diferentes espaços e públicos tendo a arte-educação como meio e fim neste processo – individual e coletivo; uno e contínuo – de construção da consciência histórica, de prevenção/combate ao comportamento/pensamento racista e discriminatório e de garantia dos direitos humanos ao exercitar compromissos nacionais e internacionais.",
+    "sobre_i18n": {
+      "pt": "O Grupo EducAR é um grupo multidisciplinar de educadores antirracistas que pensam e fazem uma Educação Antirracista desde 2018 com o objetivo de (re)pensar a Educação dentro e fora da escola com um compromisso antirracista a partir da realidade social portuguesa e do seu diálogo com experiências africanas, afrobrasileiras e afrodiaspórica. Trabalhamos com diferentes abordagens temáticas e formatos para diferentes espaços e públicos tendo a arte-educação como meio e fim neste processo – individual e coletivo; uno e contínuo – de construção da consciência histórica, de prevenção/combate ao comportamento/pensamento racista e discriminatório e de garantia dos direitos humanos ao exercitar compromissos nacionais e internacionais.",
+      "es": "El Grupo EducAR es un grupo multidisciplinar de educadores antirracistas que piensan y practican una Educación Antirracista desde 2018, con el objetivo de (re)pensar la educación dentro y fuera de la escuela con un compromiso antirracista, a partir de la realidad social portuguesa y de su diálogo con experiencias africanas, afrobrasileñas y afrodiaspóricas. Trabaja con distintos enfoques temáticos y formatos para diferentes espacios y públicos, con la educación artística como medio y fin en este proceso, individual y colectivo, de construcción de la conciencia histórica, de prevención y combate del comportamiento y el pensamiento racista y discriminatorio, y de garantía de los derechos humanos.",
+      "en": "The EducAR Group is a multidisciplinary group of anti-racist educators who have been developing Anti-Racist Education since 2018, aiming to (re)think education inside and outside school with an anti-racist commitment, starting from Portuguese social reality and its dialogue with African, Afro-Brazilian and Afro-diasporic experiences. It works with different themes and formats for different spaces and audiences, using arts education as both means and end in an individual and collective process of building historical awareness, preventing and combating racist and discriminatory behaviour and thinking, and upholding human rights."
+    }
   },
   {
     "id": 32,
@@ -1115,7 +1270,12 @@
       "fullAddress": "Rua Virgínia Quaresma, 1400-361 Belém, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Rede-Afrolink-Comunidade-de-Profissionais-Africanos-e-Afrodescendentes.jpg",
-    "sobre": "Afrolink é uma organização dedicada ao avanço dos profissionais e empresários negros, e à promoção da diversidade na sociedade portuguesa. Através de uma abordagem abrangente que combina a dinamização comunitária, a informação independente e a oferta de serviços de consultoria, criámos uma rede de apoio única para enfrentar desafios sistémicos e propor ideias para uma sociedade mais equitativa."
+    "sobre": "Afrolink é uma organização dedicada ao avanço dos profissionais e empresários negros, e à promoção da diversidade na sociedade portuguesa. Através de uma abordagem abrangente que combina a dinamização comunitária, a informação independente e a oferta de serviços de consultoria, criámos uma rede de apoio única para enfrentar desafios sistémicos e propor ideias para uma sociedade mais equitativa.",
+    "sobre_i18n": {
+      "pt": "Afrolink é uma organização dedicada ao avanço dos profissionais e empresários negros, e à promoção da diversidade na sociedade portuguesa. Através de uma abordagem abrangente que combina a dinamização comunitária, a informação independente e a oferta de serviços de consultoria, criámos uma rede de apoio única para enfrentar desafios sistémicos e propor ideias para uma sociedade mais equitativa.",
+      "es": "Afrolink es una organización dedicada al avance de los profesionales y empresarios negros y a la promoción de la diversidad en la sociedad portuguesa. Con un enfoque integral que combina la dinamización comunitaria, la información independiente y los servicios de consultoría, ha creado una red de apoyo única para afrontar desafíos sistémicos y proponer ideas para una sociedad más equitativa.",
+      "en": "Afrolink is an organisation dedicated to the advancement of Black professionals and entrepreneurs and to promoting diversity in Portuguese society. Through a comprehensive approach combining community engagement, independent information and consultancy services, it has built a unique support network to tackle systemic challenges and put forward ideas for a fairer society."
+    }
   },
   {
     "id": 33,
@@ -1150,7 +1310,12 @@
       "fullAddress": "Polo Cultural Gaivotas Boavista, Rua das Gaivotas 8, sala F, 1200-202 Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Teatro-GRIOT.jpg",
-    "sobre": "O Teatro GRIOT, sediado na cidade de Lisboa, é uma companhia de teatro cuja programação se organiza a partir de reflexões implicadas na construção e problematização da Europa contemporânea, decorrentes das vivências dos seus membros, que se relacionam com a condição do que é ser artista, negro, imigrante e estrangeiro."
+    "sobre": "O Teatro GRIOT, sediado na cidade de Lisboa, é uma companhia de teatro cuja programação se organiza a partir de reflexões implicadas na construção e problematização da Europa contemporânea, decorrentes das vivências dos seus membros, que se relacionam com a condição do que é ser artista, negro, imigrante e estrangeiro.",
+    "sobre_i18n": {
+      "pt": "O Teatro GRIOT, sediado na cidade de Lisboa, é uma companhia de teatro cuja programação se organiza a partir de reflexões implicadas na construção e problematização da Europa contemporânea, decorrentes das vivências dos seus membros, que se relacionam com a condição do que é ser artista, negro, imigrante e estrangeiro.",
+      "es": "El Teatro GRIOT, con sede en Lisboa, es una compañía de teatro cuya programación parte de reflexiones sobre la construcción y la problematización de la Europa contemporánea, nacidas de las vivencias de sus miembros y relacionadas con la condición de ser artista, negro, inmigrante y extranjero.",
+      "en": "Teatro GRIOT, based in Lisbon, is a theatre company whose programme stems from reflections on the construction and questioning of contemporary Europe, drawn from its members' lived experiences of being artists, Black, immigrants and foreigners."
+    }
   },
   {
     "id": 34,
@@ -1185,7 +1350,12 @@
       "fullAddress": "Bairro da Torre 8, 2680-093 Camarate, Loures, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-Torre-Amiga.jpg",
-    "sobre": "Fundada a Fevereiro de 2013, para defender os direitos da comunidade da Torre (residente e realojada), e apoiar na colmatação das suas necessidades, incluindo o acesso a serviços básicos (água, electricidade, saneamento, higiene urbana) a habitação digna e adequada, a apoios sociais e solidários (alimentação, produtos de higiene e limpeza, móveis e electrodomésticos, tarifas sociais, passe social, saúde, emprego, etc.), aos serviços de integração de imigrantes, e actividades lúdicas e culturais diversas. "
+    "sobre": "Fundada a Fevereiro de 2013, para defender os direitos da comunidade da Torre (residente e realojada), e apoiar na colmatação das suas necessidades, incluindo o acesso a serviços básicos (água, electricidade, saneamento, higiene urbana) a habitação digna e adequada, a apoios sociais e solidários (alimentação, produtos de higiene e limpeza, móveis e electrodomésticos, tarifas sociais, passe social, saúde, emprego, etc.), aos serviços de integração de imigrantes, e actividades lúdicas e culturais diversas. ",
+    "sobre_i18n": {
+      "pt": "Fundada a Fevereiro de 2013, para defender os direitos da comunidade da Torre (residente e realojada), e apoiar na colmatação das suas necessidades, incluindo o acesso a serviços básicos (água, electricidade, saneamento, higiene urbana) a habitação digna e adequada, a apoios sociais e solidários (alimentação, produtos de higiene e limpeza, móveis e electrodomésticos, tarifas sociais, passe social, saúde, emprego, etc.), aos serviços de integração de imigrantes, e actividades lúdicas e culturais diversas. ",
+      "es": "Fundada en febrero de 2013 para defender los derechos de la comunidad de Torre (residente y realojada) y ayudar a cubrir sus necesidades, incluido el acceso a servicios básicos (agua, electricidad, saneamiento, higiene urbana), a una vivienda digna y adecuada, a apoyos sociales y solidarios (alimentación, productos de higiene y limpieza, muebles y electrodomésticos, tarifas sociales, abono de transporte, salud, empleo, etc.), a los servicios de integración de inmigrantes y a diversas actividades lúdicas y culturales.",
+      "en": "Founded in February 2013 to defend the rights of the Torre community (both residents and those rehoused) and help meet their needs, including access to basic services (water, electricity, sanitation, waste collection), decent and adequate housing, social and solidarity support (food, hygiene and cleaning products, furniture and appliances, social tariffs, transport passes, health, employment, etc.), immigrant integration services and a range of recreational and cultural activities."
+    }
   },
   {
     "id": 35,
@@ -1220,7 +1390,12 @@
       "fullAddress": "Rua Augusto José Vieira 19, 1º, 1170-031 Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Uniao-Negra-das-Artes.jpg",
-    "sobre": "A União NEGRA das Artes é uma iniciativa que surge no âmbito da luta antirracista e da afirmação de negritude em Portugal, com ênfase nas diversas manifestações e debates recentes em torno da reivindicação de direitos humanos, da descolonização do conhecimento e da valorização do legado artístico-cultural protagonizado por pessoas negras.\nA constituição da associação,em Abril de 2021, resulta da necessidade de criação de uma estrutura que defenda os interesses específicos da negritude no setor cultural, atendendo às continuidades históricas do racismo colonial que mantém assimetrias profundas e dificultam a criação, fruição, acesso, produção, programação e, consequentemente, a representatividade negra no sector artístico em Portugal.\nOs principais objetivos são a promoção, elevação e fortalecimento da representatividade negra no campo artístico português, assim como o reconhecimento e a valorização do património imaterial da população negra em Portugal."
+    "sobre": "A União NEGRA das Artes é uma iniciativa que surge no âmbito da luta antirracista e da afirmação de negritude em Portugal, com ênfase nas diversas manifestações e debates recentes em torno da reivindicação de direitos humanos, da descolonização do conhecimento e da valorização do legado artístico-cultural protagonizado por pessoas negras.\nA constituição da associação,em Abril de 2021, resulta da necessidade de criação de uma estrutura que defenda os interesses específicos da negritude no setor cultural, atendendo às continuidades históricas do racismo colonial que mantém assimetrias profundas e dificultam a criação, fruição, acesso, produção, programação e, consequentemente, a representatividade negra no sector artístico em Portugal.\nOs principais objetivos são a promoção, elevação e fortalecimento da representatividade negra no campo artístico português, assim como o reconhecimento e a valorização do património imaterial da população negra em Portugal.",
+    "sobre_i18n": {
+      "pt": "A União NEGRA das Artes é uma iniciativa que surge no âmbito da luta antirracista e da afirmação de negritude em Portugal, com ênfase nas diversas manifestações e debates recentes em torno da reivindicação de direitos humanos, da descolonização do conhecimento e da valorização do legado artístico-cultural protagonizado por pessoas negras.\nA constituição da associação,em Abril de 2021, resulta da necessidade de criação de uma estrutura que defenda os interesses específicos da negritude no setor cultural, atendendo às continuidades históricas do racismo colonial que mantém assimetrias profundas e dificultam a criação, fruição, acesso, produção, programação e, consequentemente, a representatividade negra no sector artístico em Portugal.\nOs principais objetivos são a promoção, elevação e fortalecimento da representatividade negra no campo artístico português, assim como o reconhecimento e a valorização do património imaterial da população negra em Portugal.",
+      "es": "La União NEGRA das Artes es una iniciativa que surge en el marco de la lucha antirracista y de la afirmación de la negritud en Portugal, con énfasis en las diversas manifestaciones y debates recientes en torno a la reivindicación de los derechos humanos, la descolonización del conocimiento y la valorización del legado artístico y cultural protagonizado por personas negras.\nLa constitución de la asociación, en abril de 2021, responde a la necesidad de crear una estructura que defienda los intereses específicos de la negritud en el sector cultural, ante las continuidades históricas del racismo colonial que mantienen profundas asimetrías y dificultan la creación, el disfrute, el acceso, la producción, la programación y, en consecuencia, la representación negra en el sector artístico en Portugal.\nSus principales objetivos son la promoción, elevación y fortalecimiento de la representación negra en el ámbito artístico portugués, así como el reconocimiento y la valorización del patrimonio inmaterial de la población negra en Portugal.",
+      "en": "União NEGRA das Artes is an initiative born of the anti-racist struggle and the affirmation of Blackness in Portugal, focusing on recent movements and debates around human rights, the decolonisation of knowledge and the recognition of the artistic and cultural legacy of Black people.\nThe association was formally established in April 2021 out of the need for a structure that defends the specific interests of Black people in the cultural sector, given the historical continuities of colonial racism that maintain deep inequalities and hinder the creation, enjoyment, access, production, programming and, consequently, the representation of Black people in the arts in Portugal.\nIts main goals are to promote, raise and strengthen Black representation in the Portuguese arts, and to recognise and value the intangible heritage of the Black population in Portugal."
+    }
   },
   {
     "id": 36,
@@ -1255,7 +1430,12 @@
       "fullAddress": "Rua Mário Viegas, Casal de São Brás, 2610-248 Amadora, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-Juvenil-Nasce-e-Renasce.jpg",
-    "sobre": "Associação sem fins lucrativos que tem como objetivos a promoção cultural, a formação e a aprendizagem, o desporto e atividades recreativas, o apoio social e a inter-ajuda, direcionados a uma população maioritariamente jovem."
+    "sobre": "Associação sem fins lucrativos que tem como objetivos a promoção cultural, a formação e a aprendizagem, o desporto e atividades recreativas, o apoio social e a inter-ajuda, direcionados a uma população maioritariamente jovem.",
+    "sobre_i18n": {
+      "pt": "Associação sem fins lucrativos que tem como objetivos a promoção cultural, a formação e a aprendizagem, o desporto e atividades recreativas, o apoio social e a inter-ajuda, direcionados a uma população maioritariamente jovem.",
+      "es": "Asociación sin ánimo de lucro que tiene como objetivos la promoción cultural, la formación y el aprendizaje, el deporte y las actividades recreativas, el apoyo social y la ayuda mutua, dirigidos a una población mayoritariamente joven.",
+      "en": "A non-profit association whose aims are cultural promotion, training and learning, sport and recreational activities, social support and mutual aid, mainly for young people."
+    }
   },
   {
     "id": 37,
@@ -1290,7 +1470,12 @@
       "fullAddress": "Rua Dom Luís de Noronha 17, 1º Esq., 1050-071 Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/SOS-Racismo-Associacao.jpg",
-    "sobre": "Fundado a 10 de dezembro de 1990, o SOS Racismo nasceu como resposta ao crescimento do racismo e da xenofobia em Portugal.\nO movimento surgiu na sequência do assassinato de José Carvalho, militante de esquerda, por um grupo de skinheads, em dezembro de 1989. \nDesde então, o SOS Racismo tem sido uma voz ativa na denúncia da discriminação racial, promovendo a igualdade e os direitos humanos.\nA associação desenvolve atividades políticas, culturais e pedagógicas, dando visibilidade às lutas contra o racismo e apoiando as comunidades racializadas em Portugal."
+    "sobre": "Fundado a 10 de dezembro de 1990, o SOS Racismo nasceu como resposta ao crescimento do racismo e da xenofobia em Portugal.\nO movimento surgiu na sequência do assassinato de José Carvalho, militante de esquerda, por um grupo de skinheads, em dezembro de 1989. \nDesde então, o SOS Racismo tem sido uma voz ativa na denúncia da discriminação racial, promovendo a igualdade e os direitos humanos.\nA associação desenvolve atividades políticas, culturais e pedagógicas, dando visibilidade às lutas contra o racismo e apoiando as comunidades racializadas em Portugal.",
+    "sobre_i18n": {
+      "pt": "Fundado a 10 de dezembro de 1990, o SOS Racismo nasceu como resposta ao crescimento do racismo e da xenofobia em Portugal.\nO movimento surgiu na sequência do assassinato de José Carvalho, militante de esquerda, por um grupo de skinheads, em dezembro de 1989. \nDesde então, o SOS Racismo tem sido uma voz ativa na denúncia da discriminação racial, promovendo a igualdade e os direitos humanos.\nA associação desenvolve atividades políticas, culturais e pedagógicas, dando visibilidade às lutas contra o racismo e apoiando as comunidades racializadas em Portugal.",
+      "es": "Fundado el 10 de diciembre de 1990, SOS Racismo nació como respuesta al aumento del racismo y la xenofobia en Portugal.\nEl movimiento surgió tras el asesinato de José Carvalho, militante de izquierda, a manos de un grupo de skinheads en diciembre de 1989.\nDesde entonces, SOS Racismo ha sido una voz activa en la denuncia de la discriminación racial, promoviendo la igualdad y los derechos humanos.\nLa asociación desarrolla actividades políticas, culturales y pedagógicas, dando visibilidad a las luchas contra el racismo y apoyando a las comunidades racializadas en Portugal.",
+      "en": "Founded on 10 December 1990, SOS Racismo was created in response to the rise of racism and xenophobia in Portugal.\nThe movement emerged after the murder of left-wing activist José Carvalho by a group of skinheads in December 1989.\nSince then, SOS Racismo has been an active voice in denouncing racial discrimination and promoting equality and human rights.\nThe association carries out political, cultural and educational activities, giving visibility to struggles against racism and supporting racialised communities in Portugal."
+    }
   },
   {
     "id": 38,
@@ -1325,7 +1510,12 @@
       "fullAddress": "Rua 8 de Dezembro, Cova da Moura, 2600-640 Amadora, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Bazofo-Dentu-Zona.jpg",
-    "sobre": "A Bazofo faz parte de um projecto cultural chamado Dentu Zona. Dentu Zona é uma expressão do crioulo cabo-verdiano que significa “no bairro”.\nO projecto envolve actividades como mercados na Cova da Moura para mostrar talento local, eventos culturais e de música para dar espaço para artistas da comunidade.\nTodas as actividades têm como objectivo empoderar a comunidade da Cova da Moura e outras comunidades marginalizadas."
+    "sobre": "A Bazofo faz parte de um projecto cultural chamado Dentu Zona. Dentu Zona é uma expressão do crioulo cabo-verdiano que significa “no bairro”.\nO projecto envolve actividades como mercados na Cova da Moura para mostrar talento local, eventos culturais e de música para dar espaço para artistas da comunidade.\nTodas as actividades têm como objectivo empoderar a comunidade da Cova da Moura e outras comunidades marginalizadas.",
+    "sobre_i18n": {
+      "pt": "A Bazofo faz parte de um projecto cultural chamado Dentu Zona. Dentu Zona é uma expressão do crioulo cabo-verdiano que significa “no bairro”.\nO projecto envolve actividades como mercados na Cova da Moura para mostrar talento local, eventos culturais e de música para dar espaço para artistas da comunidade.\nTodas as actividades têm como objectivo empoderar a comunidade da Cova da Moura e outras comunidades marginalizadas.",
+      "es": "Bazofo forma parte de un proyecto cultural llamado Dentu Zona, expresión del criollo caboverdiano que significa «en el barrio».\nEl proyecto incluye actividades como mercados en Cova da Moura para mostrar el talento local y eventos culturales y musicales que dan espacio a los artistas de la comunidad.\nTodas las actividades tienen como objetivo empoderar a la comunidad de Cova da Moura y a otras comunidades marginadas.",
+      "en": "Bazofo is part of a cultural project called Dentu Zona, a Cape Verdean Creole expression meaning \"in the neighbourhood\".\nThe project includes markets in Cova da Moura showcasing local talent, and cultural and music events that give space to artists from the community.\nAll activities aim to empower the Cova da Moura community and other marginalised communities."
+    }
   },
   {
     "id": 39,
@@ -1360,7 +1550,12 @@
       "fullAddress": "Largo Filinto Elísio 13, 6ºC, Cova da Piedade, 2805-145 Almada, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Mon-Zuntu-Associacao-de-Promocao-da-Comunidade-Santomense.jpg",
-    "sobre": "Associação de pendor recreativo de promoção cultural e artística da cultura e comunidade Santomense."
+    "sobre": "Associação de pendor recreativo de promoção cultural e artística da cultura e comunidade Santomense.",
+    "sobre_i18n": {
+      "pt": "Associação de pendor recreativo de promoção cultural e artística da cultura e comunidade Santomense.",
+      "es": "Asociación de carácter recreativo dedicada a la promoción cultural y artística de la cultura y la comunidad santotomense.",
+      "en": "A recreational association dedicated to the cultural and artistic promotion of São Tomé and Príncipe culture and community."
+    }
   },
   {
     "id": 40,
@@ -1395,7 +1590,12 @@
       "fullAddress": "Casal de São Brás, 2610-109 Amadora, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Batukadeiras-Bandeirinhas-Da-Boba.jpg",
-    "sobre": "Grupo feminino de batuque da Boba."
+    "sobre": "Grupo feminino de batuque da Boba.",
+    "sobre_i18n": {
+      "pt": "Grupo feminino de batuque da Boba.",
+      "es": "Grupo femenino de batuque de Boba.",
+      "en": "Women's batuque group from Boba."
+    }
   },
   {
     "id": 41,
@@ -1430,7 +1630,12 @@
       "fullAddress": "Travessa do Robalo 22A, Torre, 2750-204 Cascais, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-para-a-Cooperacao-Internacional-com-Africa-Acacia.jpg",
-    "sobre": "A ACÁCIA – Associação para a Cooperação Internacional com África é uma ONGD fundada legalmente em 2008 e reconhecida pelo IPAD em 2009, nascida de um sonho e de uma paixão comum por África. Têm como missão promover a valorização do indivíduo e contribuir para uma sociedade mais justa, desenvolvida e sustentável, de acordo com os princípios dos direitos humanos. Para isso, concebem, executam e apoiam projetos sociais, culturais, educativos, económicos e cívicos, tanto em Portugal como em países em desenvolvimento. Desenvolvem atividades de cooperação e educação para o desenvolvimento, formação profissional, promoção do desenvolvimento local, iniciativas para jovens, igualdade de género, ações culturais e de solidariedade, estabelecendo ainda protocolos de cooperação e produzindo estudos que reforçam a sua missão."
+    "sobre": "A ACÁCIA – Associação para a Cooperação Internacional com África é uma ONGD fundada legalmente em 2008 e reconhecida pelo IPAD em 2009, nascida de um sonho e de uma paixão comum por África. Têm como missão promover a valorização do indivíduo e contribuir para uma sociedade mais justa, desenvolvida e sustentável, de acordo com os princípios dos direitos humanos. Para isso, concebem, executam e apoiam projetos sociais, culturais, educativos, económicos e cívicos, tanto em Portugal como em países em desenvolvimento. Desenvolvem atividades de cooperação e educação para o desenvolvimento, formação profissional, promoção do desenvolvimento local, iniciativas para jovens, igualdade de género, ações culturais e de solidariedade, estabelecendo ainda protocolos de cooperação e produzindo estudos que reforçam a sua missão.",
+    "sobre_i18n": {
+      "pt": "A ACÁCIA – Associação para a Cooperação Internacional com África é uma ONGD fundada legalmente em 2008 e reconhecida pelo IPAD em 2009, nascida de um sonho e de uma paixão comum por África. Têm como missão promover a valorização do indivíduo e contribuir para uma sociedade mais justa, desenvolvida e sustentável, de acordo com os princípios dos direitos humanos. Para isso, concebem, executam e apoiam projetos sociais, culturais, educativos, económicos e cívicos, tanto em Portugal como em países em desenvolvimento. Desenvolvem atividades de cooperação e educação para o desenvolvimento, formação profissional, promoção do desenvolvimento local, iniciativas para jovens, igualdade de género, ações culturais e de solidariedade, estabelecendo ainda protocolos de cooperação e produzindo estudos que reforçam a sua missão.",
+      "es": "ACÁCIA – Asociación para la Cooperación Internacional con África es una ONGD fundada legalmente en 2008 y reconocida por el IPAD en 2009, nacida de un sueño y de una pasión común por África. Su misión es promover la valorización de la persona y contribuir a una sociedad más justa, desarrollada y sostenible, de acuerdo con los principios de los derechos humanos. Para ello, diseña, ejecuta y apoya proyectos sociales, culturales, educativos, económicos y cívicos, tanto en Portugal como en países en desarrollo. Desarrolla actividades de cooperación y educación para el desarrollo, formación profesional, promoción del desarrollo local, iniciativas juveniles, igualdad de género y acciones culturales y solidarias, y además establece protocolos de cooperación y elabora estudios que refuerzan su misión.",
+      "en": "ACÁCIA – Association for International Cooperation with Africa is an NGDO legally founded in 2008 and recognised by IPAD in 2009, born of a dream and a shared passion for Africa. Its mission is to promote the value of every individual and contribute to a fairer, more developed and sustainable society, in line with human rights principles. To this end, it designs, implements and supports social, cultural, educational, economic and civic projects in Portugal and in developing countries. Its work covers cooperation and development education, vocational training, local development, youth initiatives, gender equality and cultural and solidarity actions, as well as cooperation agreements and studies that support its mission."
+    }
   },
   {
     "id": 42,
@@ -1465,7 +1670,12 @@
       "fullAddress": "Rua dos Bacalhoeiros 4, 1º Andar, 1100-070 Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Solidariedade-Imigrante-Associacao-para-Defesa-dos-Direitos-dos-Imigrantes-SOLIM.png.jpg",
-    "sobre": "A Solidariedade Imigrante é uma associação sem fins lucrativos, criada em 2001, que defende os direitos dos imigrantes em Portugal, promovendo a sua voz autónoma e independente. Trabalham para que todos possam exercer os seus direitos, independentemente da origem, religião, etnia ou género, lutando pela igualdade de direitos. Integram diversas redes nacionais e internacionais, como a Plataforma de Associações de Imigrantes e a Rede de Combate à Exclusão Social, e são promotores do Fórum Social Português. Sustentam-se através da autonomia financeira, valorizando a responsabilização dos próprios imigrantes que apoiam a associação através das suas quotas."
+    "sobre": "A Solidariedade Imigrante é uma associação sem fins lucrativos, criada em 2001, que defende os direitos dos imigrantes em Portugal, promovendo a sua voz autónoma e independente. Trabalham para que todos possam exercer os seus direitos, independentemente da origem, religião, etnia ou género, lutando pela igualdade de direitos. Integram diversas redes nacionais e internacionais, como a Plataforma de Associações de Imigrantes e a Rede de Combate à Exclusão Social, e são promotores do Fórum Social Português. Sustentam-se através da autonomia financeira, valorizando a responsabilização dos próprios imigrantes que apoiam a associação através das suas quotas.",
+    "sobre_i18n": {
+      "pt": "A Solidariedade Imigrante é uma associação sem fins lucrativos, criada em 2001, que defende os direitos dos imigrantes em Portugal, promovendo a sua voz autónoma e independente. Trabalham para que todos possam exercer os seus direitos, independentemente da origem, religião, etnia ou género, lutando pela igualdade de direitos. Integram diversas redes nacionais e internacionais, como a Plataforma de Associações de Imigrantes e a Rede de Combate à Exclusão Social, e são promotores do Fórum Social Português. Sustentam-se através da autonomia financeira, valorizando a responsabilização dos próprios imigrantes que apoiam a associação através das suas quotas.",
+      "es": "Solidariedade Imigrante es una asociación sin ánimo de lucro, creada en 2001, que defiende los derechos de los inmigrantes en Portugal, promoviendo su voz autónoma e independiente. Trabaja para que todas las personas puedan ejercer sus derechos, independientemente de su origen, religión, etnia o género, luchando por la igualdad de derechos. Forma parte de diversas redes nacionales e internacionales, como la Plataforma de Asociaciones de Inmigrantes y la Red de Lucha contra la Exclusión Social, y es promotora del Foro Social Portugués. Se sostiene gracias a su autonomía financiera, basada en la corresponsabilidad de los propios inmigrantes, que apoyan la asociación con sus cuotas.",
+      "en": "Solidariedade Imigrante is a non-profit association founded in 2001 that defends the rights of immigrants in Portugal and promotes their autonomous and independent voice. It works so that everyone can exercise their rights regardless of origin, religion, ethnicity or gender, campaigning for equal rights. It belongs to several national and international networks, such as the Platform of Immigrant Associations and the Network Against Social Exclusion, and is a promoter of the Portuguese Social Forum. It is financially self-sustaining, relying on the immigrants themselves, who support the association through their membership fees."
+    }
   },
   {
     "id": 43,
@@ -1500,7 +1710,12 @@
       "fullAddress": "Avenida Santos Dumont 57, 1050-202 Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/ASSOCIACAO-PARA-A-COOPERACAO-ENTRE-OS-POVOS-ACEP.jpg",
-    "sobre": "A ACEP - Associação para a Cooperação Entre os Povos, constituída no início da década de 90, define como objectivo da sua intervenção contribuir para um mundo mais equitativo e solidário, através da construção de laços de cooperação e de reforço mútuo, entre expressões de cidadania, em particular nos países de língua oficial portuguesa."
+    "sobre": "A ACEP - Associação para a Cooperação Entre os Povos, constituída no início da década de 90, define como objectivo da sua intervenção contribuir para um mundo mais equitativo e solidário, através da construção de laços de cooperação e de reforço mútuo, entre expressões de cidadania, em particular nos países de língua oficial portuguesa.",
+    "sobre_i18n": {
+      "pt": "A ACEP - Associação para a Cooperação Entre os Povos, constituída no início da década de 90, define como objectivo da sua intervenção contribuir para um mundo mais equitativo e solidário, através da construção de laços de cooperação e de reforço mútuo, entre expressões de cidadania, em particular nos países de língua oficial portuguesa.",
+      "es": "ACEP – Asociación para la Cooperación entre los Pueblos, constituida a principios de los años noventa, tiene como objetivo contribuir a un mundo más equitativo y solidario mediante la construcción de lazos de cooperación y de refuerzo mutuo entre expresiones de ciudadanía, en particular en los países de lengua oficial portuguesa.",
+      "en": "ACEP – Association for Cooperation Among Peoples, founded in the early 1990s, aims to contribute to a fairer and more caring world by building ties of cooperation and mutual support between civil society initiatives, particularly in Portuguese-speaking countries."
+    }
   },
   {
     "id": 44,
@@ -1535,7 +1750,12 @@
       "fullAddress": "Praceta Padre Álvaro Proença 10, 2º Dto., 2700-631 Amadora, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-Desportiva-da-Amadora.jpg",
-    "sobre": "A Associação Desportiva da Amadora nasceu a 14 de março de 2014, com uma visão simples, mas poderosa: usar o futebol como uma ferramenta de desenvolvimento pessoal e social. Começámos com apenas 15 crianças no Ringue do Bairro da Boba, e hoje, com o nosso lar no Complexo Desportivo Municipal do Monte da Galega, somos uma referência na formação de jovens atletas, com mais de 260 crianças e jovens a praticar desporto."
+    "sobre": "A Associação Desportiva da Amadora nasceu a 14 de março de 2014, com uma visão simples, mas poderosa: usar o futebol como uma ferramenta de desenvolvimento pessoal e social. Começámos com apenas 15 crianças no Ringue do Bairro da Boba, e hoje, com o nosso lar no Complexo Desportivo Municipal do Monte da Galega, somos uma referência na formação de jovens atletas, com mais de 260 crianças e jovens a praticar desporto.",
+    "sobre_i18n": {
+      "pt": "A Associação Desportiva da Amadora nasceu a 14 de março de 2014, com uma visão simples, mas poderosa: usar o futebol como uma ferramenta de desenvolvimento pessoal e social. Começámos com apenas 15 crianças no Ringue do Bairro da Boba, e hoje, com o nosso lar no Complexo Desportivo Municipal do Monte da Galega, somos uma referência na formação de jovens atletas, com mais de 260 crianças e jovens a praticar desporto.",
+      "es": "La Asociación Deportiva de Amadora nació el 14 de marzo de 2014 con una visión sencilla pero poderosa: usar el fútbol como herramienta de desarrollo personal y social. Empezó con solo 15 niños en la cancha del Barrio de Boba y hoy, con su sede en el Complejo Deportivo Municipal de Monte da Galega, es una referencia en la formación de jóvenes deportistas, con más de 260 niños y jóvenes practicando deporte.",
+      "en": "The Amadora Sports Association was founded on 14 March 2014 with a simple but powerful vision: to use football as a tool for personal and social development. It started with just 15 children on the Boba neighbourhood pitch and today, based at the Monte da Galega Municipal Sports Complex, it is a reference in youth training, with more than 260 children and young people playing sport."
+    }
   },
   {
     "id": 45,
@@ -1570,7 +1790,12 @@
       "fullAddress": "Rua dos Moinhos 23A, Pendão, 2745-108 Queluz, Sintra, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-The-One-Zion.jpg",
-    "sobre": "Associação de moradores/as residentes na zona do Pendão com o objectivo de promover respostas participadas para os jovens, e para todos os seus desafios sentidos no território. Pretende-se criar espaço para a energização e concretização das ideias emergidas, via momentos de participação e reflexão. Paralelamente, pretende-se proporcionar aos jovens, experiências diferenciadoras do seu quotidiano. Projeto será assente num espaço comunitário, em associações parceiras e na rua / espaços públicos que os jovens frequentam."
+    "sobre": "Associação de moradores/as residentes na zona do Pendão com o objectivo de promover respostas participadas para os jovens, e para todos os seus desafios sentidos no território. Pretende-se criar espaço para a energização e concretização das ideias emergidas, via momentos de participação e reflexão. Paralelamente, pretende-se proporcionar aos jovens, experiências diferenciadoras do seu quotidiano. Projeto será assente num espaço comunitário, em associações parceiras e na rua / espaços públicos que os jovens frequentam.",
+    "sobre_i18n": {
+      "pt": "Associação de moradores/as residentes na zona do Pendão com o objectivo de promover respostas participadas para os jovens, e para todos os seus desafios sentidos no território. Pretende-se criar espaço para a energização e concretização das ideias emergidas, via momentos de participação e reflexão. Paralelamente, pretende-se proporcionar aos jovens, experiências diferenciadoras do seu quotidiano. Projeto será assente num espaço comunitário, em associações parceiras e na rua / espaços públicos que os jovens frequentam.",
+      "es": "Asociación de vecinos y vecinas de la zona de Pendão cuyo objetivo es promover respuestas participativas para los jóvenes y para todos los retos que viven en el territorio. Busca crear espacio para impulsar y llevar a cabo las ideas que surjan, mediante momentos de participación y reflexión. Al mismo tiempo, quiere ofrecer a los jóvenes experiencias distintas de su día a día. El proyecto se basa en un espacio comunitario, en asociaciones colaboradoras y en la calle y los espacios públicos que frecuentan los jóvenes.",
+      "en": "A residents' association in the Pendão area that promotes participatory responses for young people and for all the challenges they face in the area. It aims to create space to energise and carry out the ideas that emerge, through moments of participation and reflection, while offering young people experiences different from their everyday lives. The project is based in a community space, partner associations and the streets and public spaces young people use."
+    }
   },
   {
     "id": 46,
@@ -1605,7 +1830,12 @@
       "fullAddress": "Rua das Mães D'Água 33, 2610-082 Amadora, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/CAZAmbujal-Associacao-Recreativa.jpg",
-    "sobre": "A Associação CAZAmbujal é uma associação formada por jovens e jovens adultos do Bairro do Zambujal (Alfragide) que desde 2012 se unem na missão de “Juntos a transformar o mundo” eventos comunitários, desporto e dinamização cultural e artística."
+    "sobre": "A Associação CAZAmbujal é uma associação formada por jovens e jovens adultos do Bairro do Zambujal (Alfragide) que desde 2012 se unem na missão de “Juntos a transformar o mundo” eventos comunitários, desporto e dinamização cultural e artística.",
+    "sobre_i18n": {
+      "pt": "A Associação CAZAmbujal é uma associação formada por jovens e jovens adultos do Bairro do Zambujal (Alfragide) que desde 2012 se unem na missão de “Juntos a transformar o mundo” eventos comunitários, desporto e dinamização cultural e artística.",
+      "es": "La Asociación CAZAmbujal está formada por jóvenes y jóvenes adultos del Barrio de Zambujal (Alfragide) que desde 2012 se unen en la misión «Juntos transformando el mundo» mediante eventos comunitarios, deporte y dinamización cultural y artística.",
+      "en": "The CAZAmbujal Association is made up of young people and young adults from the Zambujal neighbourhood (Alfragide) who since 2012 have come together on a mission of \"Transforming the world together\" through community events, sport and cultural and artistic activities."
+    }
   },
   {
     "id": 48,
@@ -1640,7 +1870,12 @@
       "fullAddress": "Mercado da Serra das Minas, Rua Vitorino Nemésio, 2635-444 Rio de Mouro, Sintra, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/SDM-Mais-Acao.png.jpg",
-    "sobre": "O SDM MAIS AÇÃO promove a criação cultural e artística na Serra de Minas."
+    "sobre": "O SDM MAIS AÇÃO promove a criação cultural e artística na Serra de Minas.",
+    "sobre_i18n": {
+      "pt": "O SDM MAIS AÇÃO promove a criação cultural e artística na Serra de Minas.",
+      "es": "SDM MAIS AÇÃO promueve la creación cultural y artística en Serra das Minas.",
+      "en": "SDM MAIS AÇÃO promotes cultural and artistic creation in Serra das Minas."
+    }
   },
   {
     "id": 49,
@@ -1675,7 +1910,12 @@
       "fullAddress": "Rua Instituto Conde de Agrolongo 43D, Loja, 2770-082 Paço de Arcos, Oeiras, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/KMT-Associacao-Moreira-Team.jpg",
-    "sobre": "A KMT – Associação Moreira Team nasceu de um projeto iniciado em 2013 com o objetivo de ocupar e apoiar crianças, jovens e adultos através de um espaço seguro e positivo. Apostando na inclusão pelo desporto, especialmente através do Kickboxing, o projeto formalizou-se como associação em 2018, com forte envolvimento da comunidade. Em 2019, expandiram o impacto com o programa “Cidadania Ativa”, promovendo ações cívicas dedicadas ao bem comum e à responsabilidade coletiva."
+    "sobre": "A KMT – Associação Moreira Team nasceu de um projeto iniciado em 2013 com o objetivo de ocupar e apoiar crianças, jovens e adultos através de um espaço seguro e positivo. Apostando na inclusão pelo desporto, especialmente através do Kickboxing, o projeto formalizou-se como associação em 2018, com forte envolvimento da comunidade. Em 2019, expandiram o impacto com o programa “Cidadania Ativa”, promovendo ações cívicas dedicadas ao bem comum e à responsabilidade coletiva.",
+    "sobre_i18n": {
+      "pt": "A KMT – Associação Moreira Team nasceu de um projeto iniciado em 2013 com o objetivo de ocupar e apoiar crianças, jovens e adultos através de um espaço seguro e positivo. Apostando na inclusão pelo desporto, especialmente através do Kickboxing, o projeto formalizou-se como associação em 2018, com forte envolvimento da comunidade. Em 2019, expandiram o impacto com o programa “Cidadania Ativa”, promovendo ações cívicas dedicadas ao bem comum e à responsabilidade coletiva.",
+      "es": "KMT – Asociación Moreira Team nació de un proyecto iniciado en 2013 con el objetivo de ocupar y apoyar a niños, jóvenes y adultos en un espacio seguro y positivo. Apostando por la inclusión a través del deporte, sobre todo el kickboxing, el proyecto se formalizó como asociación en 2018, con una fuerte implicación de la comunidad. En 2019 amplió su impacto con el programa «Ciudadanía Activa», que promueve acciones cívicas dedicadas al bien común y a la responsabilidad colectiva.",
+      "en": "KMT – Moreira Team Association grew out of a project started in 2013 to engage and support children, young people and adults in a safe and positive space. Focusing on inclusion through sport, especially kickboxing, it became a formal association in 2018 with strong community involvement. In 2019 it expanded its impact with the \"Active Citizenship\" programme, promoting civic actions for the common good and collective responsibility."
+    }
   },
   {
     "id": 50,
@@ -1710,7 +1950,12 @@
       "fullAddress": "Rua das Mães D'Água 31-A, Bairro do Zambujal, 2610-108 Amadora, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Academia-do-Johnson.jpg",
-    "sobre": "A Academia do Johnson acompanha crianças e jovens de meios familiares e sociais fragilizados, na intervenção e prevenção de situações de risco, através da promoção da educação e do desporto como ferramentas para melhorarem as suas vidas."
+    "sobre": "A Academia do Johnson acompanha crianças e jovens de meios familiares e sociais fragilizados, na intervenção e prevenção de situações de risco, através da promoção da educação e do desporto como ferramentas para melhorarem as suas vidas.",
+    "sobre_i18n": {
+      "pt": "A Academia do Johnson acompanha crianças e jovens de meios familiares e sociais fragilizados, na intervenção e prevenção de situações de risco, através da promoção da educação e do desporto como ferramentas para melhorarem as suas vidas.",
+      "es": "La Academia do Johnson acompaña a niños y jóvenes de entornos familiares y sociales frágiles, interviniendo y previniendo situaciones de riesgo mediante la promoción de la educación y el deporte como herramientas para mejorar sus vidas.",
+      "en": "Academia do Johnson supports children and young people from vulnerable family and social backgrounds, intervening in and preventing risk situations by promoting education and sport as tools to improve their lives."
+    }
   },
   {
     "id": 51,
@@ -1745,7 +1990,12 @@
       "fullAddress": "Rua Raul Rego, Lote 8, 2ºB, 1750-424 Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-de-Moradores-do-PER-11.jpg",
-    "sobre": "A Associação de Moradores do PER11 é uma organização dedicada a promover o bem-estar da comunidade, fortalecendo relações, criando oportunidades e abrindo caminhos para uma participação ativa e inclusiva.\nTrabalha diariamente para dinamizar iniciativas educativas, culturais e sociais que valorizem cada residente, apoiem o desenvolvimento local e reforcem o sentido de pertença no bairro."
+    "sobre": "A Associação de Moradores do PER11 é uma organização dedicada a promover o bem-estar da comunidade, fortalecendo relações, criando oportunidades e abrindo caminhos para uma participação ativa e inclusiva.\nTrabalha diariamente para dinamizar iniciativas educativas, culturais e sociais que valorizem cada residente, apoiem o desenvolvimento local e reforcem o sentido de pertença no bairro.",
+    "sobre_i18n": {
+      "pt": "A Associação de Moradores do PER11 é uma organização dedicada a promover o bem-estar da comunidade, fortalecendo relações, criando oportunidades e abrindo caminhos para uma participação ativa e inclusiva.\nTrabalha diariamente para dinamizar iniciativas educativas, culturais e sociais que valorizem cada residente, apoiem o desenvolvimento local e reforcem o sentido de pertença no bairro.",
+      "es": "La Asociación de Vecinos del PER11 es una organización dedicada a promover el bienestar de la comunidad, fortaleciendo relaciones, creando oportunidades y abriendo caminos para una participación activa e inclusiva.\nTrabaja a diario para impulsar iniciativas educativas, culturales y sociales que valoren a cada residente, apoyen el desarrollo local y refuercen el sentido de pertenencia al barrio.",
+      "en": "The PER11 Residents' Association is dedicated to promoting community wellbeing, strengthening relationships, creating opportunities and opening the way to active and inclusive participation.\nIt works every day on educational, cultural and social initiatives that value each resident, support local development and strengthen the sense of belonging in the neighbourhood."
+    }
   },
   {
     "id": 52,
@@ -1780,7 +2030,12 @@
       "fullAddress": "Avenida Comendador Nunes Corrêa, Armazém 18, 2790-145 Carnaxide, Oeiras, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Solfraterno-Associacao-de-Solidariedade-Social-de-Oeiras.jpg",
-    "sobre": "A Solfraterno é uma associação de solidariedade social e apoia famílias no combate à pobreza."
+    "sobre": "A Solfraterno é uma associação de solidariedade social e apoia famílias no combate à pobreza.",
+    "sobre_i18n": {
+      "pt": "A Solfraterno é uma associação de solidariedade social e apoia famílias no combate à pobreza.",
+      "es": "Solfraterno es una asociación de solidaridad social que apoya a familias en la lucha contra la pobreza.",
+      "en": "Solfraterno is a social solidarity association that supports families in the fight against poverty."
+    }
   },
   {
     "id": 53,
@@ -1815,7 +2070,12 @@
       "fullAddress": "Rua Gonçalves Crespo, Lote 9C, Brandoa, 2650-241 Encosta do Sol, Amadora, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Capacitare-Consultoria-e-Negocios.jpg",
-    "sobre": "Disponibiliza soluções completas de serviços especializados em documentação de estrangeiros, capacitação de indivíduos/empreendedores e outros profissionais de front-office de empresas público-privadas ou da economia social, desde serviços de outsourcing para entidades que procurem contratar talento estrangeiro e querem que os seus profissionais estejam focados para a função a que foram contratados, reduzindo a rotatividade e as desigualdades de oportunidades"
+    "sobre": "Disponibiliza soluções completas de serviços especializados em documentação de estrangeiros, capacitação de indivíduos/empreendedores e outros profissionais de front-office de empresas público-privadas ou da economia social, desde serviços de outsourcing para entidades que procurem contratar talento estrangeiro e querem que os seus profissionais estejam focados para a função a que foram contratados, reduzindo a rotatividade e as desigualdades de oportunidades",
+    "sobre_i18n": {
+      "pt": "Disponibiliza soluções completas de serviços especializados em documentação de estrangeiros, capacitação de indivíduos/empreendedores e outros profissionais de front-office de empresas público-privadas ou da economia social, desde serviços de outsourcing para entidades que procurem contratar talento estrangeiro e querem que os seus profissionais estejam focados para a função a que foram contratados, reduzindo a rotatividade e as desigualdades de oportunidades",
+      "es": "Ofrece soluciones completas de servicios especializados en documentación de extranjeros, capacitación de personas y emprendedores y de otros profesionales de atención al público de empresas público-privadas o de la economía social, así como servicios de externalización para entidades que buscan contratar talento extranjero y quieren que sus profesionales se centren en la función para la que fueron contratados, reduciendo la rotación y la desigualdad de oportunidades.",
+      "en": "It provides complete specialised services in documentation for foreign nationals, training for individuals, entrepreneurs and front-office staff of public-private or social economy organisations, and outsourcing for organisations hiring foreign talent who want their staff focused on the job they were hired for, reducing turnover and unequal opportunities."
+    }
   },
   {
     "id": 54,
@@ -1850,7 +2110,12 @@
       "fullAddress": "Rua Frederico George 25, 1º Dto, 1600-468 Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-Jorge-Pina.jpg",
-    "sobre": "Em 2004, quando se preparava para o Campeonato do Mundo de Boxe, o pugilista Jorge Pina perdeu quase totalmente a visão.\nDesde então, o atleta quis “ser os braços, as mãos e as pernas da comunidade” e inspirar os jovens, criando a Associação Jorge Pina promovendo a transformação social através da prática de desporto."
+    "sobre": "Em 2004, quando se preparava para o Campeonato do Mundo de Boxe, o pugilista Jorge Pina perdeu quase totalmente a visão.\nDesde então, o atleta quis “ser os braços, as mãos e as pernas da comunidade” e inspirar os jovens, criando a Associação Jorge Pina promovendo a transformação social através da prática de desporto.",
+    "sobre_i18n": {
+      "pt": "Em 2004, quando se preparava para o Campeonato do Mundo de Boxe, o pugilista Jorge Pina perdeu quase totalmente a visão.\nDesde então, o atleta quis “ser os braços, as mãos e as pernas da comunidade” e inspirar os jovens, criando a Associação Jorge Pina promovendo a transformação social através da prática de desporto.",
+      "es": "En 2004, mientras se preparaba para el Campeonato del Mundo de Boxeo, el boxeador Jorge Pina perdió casi por completo la vista.\nDesde entonces, quiso «ser los brazos, las manos y las piernas de la comunidad» e inspirar a los jóvenes, y creó la Asociación Jorge Pina, que promueve la transformación social a través de la práctica deportiva.",
+      "en": "In 2004, while preparing for the World Boxing Championship, boxer Jorge Pina lost almost all his sight.\nSince then he has wanted to \"be the arms, hands and legs of the community\" and to inspire young people, founding the Jorge Pina Association to promote social transformation through sport."
+    }
   },
   {
     "id": 55,
@@ -1885,7 +2150,12 @@
       "fullAddress": "Rua de São Bento 640, 1250-220 Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Centro-Cultural-de-Cabo-Verde.jpg",
-    "sobre": "É uma instituição sem fins lucrativos, gerida pela Embaixada de Cabo Verde em Portugal e tem como missão a preservação e a divulgação da cultura cabo-verdiana."
+    "sobre": "É uma instituição sem fins lucrativos, gerida pela Embaixada de Cabo Verde em Portugal e tem como missão a preservação e a divulgação da cultura cabo-verdiana.",
+    "sobre_i18n": {
+      "pt": "É uma instituição sem fins lucrativos, gerida pela Embaixada de Cabo Verde em Portugal e tem como missão a preservação e a divulgação da cultura cabo-verdiana.",
+      "es": "Es una institución sin ánimo de lucro, gestionada por la Embajada de Cabo Verde en Portugal, cuya misión es preservar y difundir la cultura caboverdiana.",
+      "en": "A non-profit institution run by the Embassy of Cape Verde in Portugal, whose mission is to preserve and promote Cape Verdean culture."
+    }
   },
   {
     "id": 56,
@@ -1920,7 +2190,12 @@
       "fullAddress": "Rua Marechal Craveiro Lopes, 2620-136 Póvoa de Santo Adrião, Odivelas, Lisboa, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Associacao-Tira-me-da-Rua.jpg",
-    "sobre": "O projecto “Tira-me da Rua” Ubuntu surgiu em 2012 com o objectivo de afastar as crianças e jovens de más influências, através de uma ocupação nos seus tempos livres que lhes fornecesse as bases e as ferramentas necessárias para ascender de forma lícita e segura a um futuro melhor e a uma cidadania plena, através da prática da capoeira.\nO projecto evoluiu, tornou-se na ATR – Associação Tira-me da Rua.\nHoje, a ATR atende a cerca de 10% da população infanto-juvenil do Barruncho e conta também com crianças e jovens de todo o concelho, assim como atletas de Lisboa, Amadora e Cascais, reunindo mais de 70 associados."
+    "sobre": "O projecto “Tira-me da Rua” Ubuntu surgiu em 2012 com o objectivo de afastar as crianças e jovens de más influências, através de uma ocupação nos seus tempos livres que lhes fornecesse as bases e as ferramentas necessárias para ascender de forma lícita e segura a um futuro melhor e a uma cidadania plena, através da prática da capoeira.\nO projecto evoluiu, tornou-se na ATR – Associação Tira-me da Rua.\nHoje, a ATR atende a cerca de 10% da população infanto-juvenil do Barruncho e conta também com crianças e jovens de todo o concelho, assim como atletas de Lisboa, Amadora e Cascais, reunindo mais de 70 associados.",
+    "sobre_i18n": {
+      "pt": "O projecto “Tira-me da Rua” Ubuntu surgiu em 2012 com o objectivo de afastar as crianças e jovens de más influências, através de uma ocupação nos seus tempos livres que lhes fornecesse as bases e as ferramentas necessárias para ascender de forma lícita e segura a um futuro melhor e a uma cidadania plena, através da prática da capoeira.\nO projecto evoluiu, tornou-se na ATR – Associação Tira-me da Rua.\nHoje, a ATR atende a cerca de 10% da população infanto-juvenil do Barruncho e conta também com crianças e jovens de todo o concelho, assim como atletas de Lisboa, Amadora e Cascais, reunindo mais de 70 associados.",
+      "es": "El proyecto «Tira-me da Rua» Ubuntu surgió en 2012 con el objetivo de alejar a niños y jóvenes de las malas influencias, ocupando su tiempo libre con una actividad que les diera las bases y herramientas necesarias para acceder de forma lícita y segura a un futuro mejor y a una ciudadanía plena, a través de la capoeira.\nEl proyecto evolucionó y se convirtió en ATR – Asociación Tira-me da Rua.\nHoy, ATR atiende a cerca del 10 % de la población infantil y juvenil de Barruncho y cuenta también con niños y jóvenes de todo el municipio, así como deportistas de Lisboa, Amadora y Cascais, con más de 70 socios.",
+      "en": "The \"Tira-me da Rua\" (Get Me Off the Street) Ubuntu project began in 2012 to keep children and young people away from bad influences, filling their free time with an activity that gave them the foundations and tools to reach a better future and full citizenship lawfully and safely, through capoeira.\nThe project grew into ATR – Tira-me da Rua Association.\nToday ATR serves around 10% of the children and young people of Barruncho, as well as children from across the municipality and athletes from Lisbon, Amadora and Cascais, with more than 70 members."
+    }
   },
   {
     "id": 57,
@@ -1955,7 +2230,12 @@
       "fullAddress": "Praceta Gregório Crispim Oliveira 2, 2840-358 Arrentela, Seixal, Setúbal, Portugal"
     },
     "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/AMUCIP.jpg",
-    "sobre": "Associação para o Desenvolvimento das Mulheres Ciganas Portuguesas, criada em 2000, trabalha com vários parceiros no Bairro procurando soluções para combater problemas como o absentismo escolar, que afeta desproporcionalmente as meninas de etnia cigana."
+    "sobre": "Associação para o Desenvolvimento das Mulheres Ciganas Portuguesas, criada em 2000, trabalha com vários parceiros no Bairro procurando soluções para combater problemas como o absentismo escolar, que afeta desproporcionalmente as meninas de etnia cigana.",
+    "sobre_i18n": {
+      "pt": "Associação para o Desenvolvimento das Mulheres Ciganas Portuguesas, criada em 2000, trabalha com vários parceiros no Bairro procurando soluções para combater problemas como o absentismo escolar, que afeta desproporcionalmente as meninas de etnia cigana.",
+      "es": "Asociación para el Desarrollo de las Mujeres Gitanas Portuguesas, creada en 2000, que trabaja con varios socios en el barrio buscando soluciones a problemas como el absentismo escolar, que afecta de forma desproporcionada a las niñas gitanas.",
+      "en": "The Association for the Development of Portuguese Roma Women, founded in 2000, works with several partners in the neighbourhood to find solutions to problems such as school absenteeism, which disproportionately affects Roma girls."
+    }
   },
   {
     "id": 1,
@@ -1990,7 +2270,12 @@
       "fullAddress": ""
     },
     "sobre": "A Djass – Associação de Afrodescendentes é uma organização sem fins lucrativos, constituída em Lisboa a 25 de maio de 2016, com a missão de defender e promover os direitos das pessoas negras e afrodescendentes em Portugal e de combater o racismo em todas as suas formas e dimensões, reivindicando políticas e práticas de igualdade.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Djass-Associacao-de-Afrodescendentes.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Djass-Associacao-de-Afrodescendentes.jpg",
+    "sobre_i18n": {
+      "pt": "A Djass – Associação de Afrodescendentes é uma organização sem fins lucrativos, constituída em Lisboa a 25 de maio de 2016, com a missão de defender e promover os direitos das pessoas negras e afrodescendentes em Portugal e de combater o racismo em todas as suas formas e dimensões, reivindicando políticas e práticas de igualdade.",
+      "es": "Djass – Asociación de Afrodescendientes es una organización sin ánimo de lucro, constituida en Lisboa el 25 de mayo de 2016, cuya misión es defender y promover los derechos de las personas negras y afrodescendientes en Portugal y combatir el racismo en todas sus formas y dimensiones, reivindicando políticas y prácticas de igualdad.",
+      "en": "Djass – Association of Afro-descendants is a non-profit organisation founded in Lisbon on 25 May 2016, whose mission is to defend and promote the rights of Black and Afro-descendant people in Portugal and to combat racism in all its forms and dimensions, calling for equality policies and practices."
+    }
   },
   {
     "id": 2,
@@ -2025,7 +2310,12 @@
       "fullAddress": ""
     },
     "sobre": "A Nêga Filmes e Produções Artísticas é um Colectivo Cultural. Inicialmente criado por mulheres negras, imigrantes, fazendo e pensando arte. Sempre a partir da perspectiva de um corpo negro no mundo, desterritorializado, mas ao mesmo tempo, absurdamente marcado.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Nega-Filmes-e-Producoes-Artisticas.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Nega-Filmes-e-Producoes-Artisticas.jpg",
+    "sobre_i18n": {
+      "pt": "A Nêga Filmes e Produções Artísticas é um Colectivo Cultural. Inicialmente criado por mulheres negras, imigrantes, fazendo e pensando arte. Sempre a partir da perspectiva de um corpo negro no mundo, desterritorializado, mas ao mesmo tempo, absurdamente marcado.",
+      "es": "Nêga Filmes e Produções Artísticas es un colectivo cultural creado inicialmente por mujeres negras e inmigrantes que hacen y piensan el arte, siempre desde la perspectiva de un cuerpo negro en el mundo, desterritorializado pero, al mismo tiempo, profundamente marcado.",
+      "en": "Nêga Filmes e Produções Artísticas is a cultural collective first created by Black immigrant women who make and think about art, always from the perspective of a Black body in the world, deterritorialised yet deeply marked."
+    }
   },
   {
     "id": 3,
@@ -2060,7 +2350,12 @@
       "fullAddress": ""
     },
     "sobre": "A Plataforma GUETO pretende dar voz à comunidade negra em Portugal, representando todos os irmãos e irmãs oprimidos, segregados e discriminados por este sistema. Desenvolve uma descolonização mental e promove a auto-estima de uma comunidade que tem a sua história exumada.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Plataforma-Gueto.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Plataforma-Gueto.jpg",
+    "sobre_i18n": {
+      "pt": "A Plataforma GUETO pretende dar voz à comunidade negra em Portugal, representando todos os irmãos e irmãs oprimidos, segregados e discriminados por este sistema. Desenvolve uma descolonização mental e promove a auto-estima de uma comunidade que tem a sua história exumada.",
+      "es": "La Plataforma GUETO quiere dar voz a la comunidad negra en Portugal, representando a todos los hermanos y hermanas oprimidos, segregados y discriminados por este sistema. Impulsa una descolonización mental y promueve la autoestima de una comunidad cuya historia ha sido enterrada.",
+      "en": "Plataforma GUETO aims to give a voice to the Black community in Portugal, representing all the brothers and sisters oppressed, segregated and discriminated against by this system. It works towards mental decolonisation and promotes the self-esteem of a community whose history has been buried."
+    }
   },
   {
     "id": 4,
@@ -2095,7 +2390,12 @@
       "fullAddress": ""
     },
     "sobre": "MULHERES NEGRAS ESCURECIDAS (MNE) são um coletivo de mulheres negras que tem por base a troca de afetos. Escurecidas nos seus pensamentos e ideais, criam um espaço seguro de reflexões sobre diferentes questões e empoderamento.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Mulheres-Negras-Escurecidas.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Mulheres-Negras-Escurecidas.jpg",
+    "sobre_i18n": {
+      "pt": "MULHERES NEGRAS ESCURECIDAS (MNE) são um coletivo de mulheres negras que tem por base a troca de afetos. Escurecidas nos seus pensamentos e ideais, criam um espaço seguro de reflexões sobre diferentes questões e empoderamento.",
+      "es": "MULHERES NEGRAS ESCURECIDAS (MNE) es un colectivo de mujeres negras basado en el intercambio de afectos. «Oscurecidas» en sus pensamientos e ideales, crean un espacio seguro de reflexión sobre distintas cuestiones y de empoderamiento.",
+      "en": "MULHERES NEGRAS ESCURECIDAS (MNE) is a collective of Black women built on mutual care. \"Darkened\" in their thoughts and ideals, they create a safe space for reflection on different issues and for empowerment."
+    }
   },
   {
     "id": 5,
@@ -2130,7 +2430,12 @@
       "fullAddress": ""
     },
     "sobre": "Começou por ser um grupo de teatro fórum, e hoje com o teatro, a música, a alfabetização e outras ferramentas, mantém uma prática de discussão horizontal junto da comunidade caboverdeana. PNMN fazem parte da Khapaz – Associação Cultural de Afrodescendentes.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2026/02/NA.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2026/02/NA.jpg",
+    "sobre_i18n": {
+      "pt": "Começou por ser um grupo de teatro fórum, e hoje com o teatro, a música, a alfabetização e outras ferramentas, mantém uma prática de discussão horizontal junto da comunidade caboverdeana. PNMN fazem parte da Khapaz – Associação Cultural de Afrodescendentes.",
+      "es": "Empezó como un grupo de teatro foro y hoy, con el teatro, la música, la alfabetización y otras herramientas, mantiene una práctica de debate horizontal con la comunidad caboverdiana. PNMN forma parte de Khapaz – Asociación Cultural de Afrodescendientes.",
+      "en": "It began as a forum theatre group and today, through theatre, music, literacy and other tools, keeps up a practice of horizontal discussion with the Cape Verdean community. PNMN is part of Khapaz – Cultural Association of Afro-descendants."
+    }
   },
   {
     "id": 6,
@@ -2165,7 +2470,12 @@
       "fullAddress": ""
     },
     "sobre": "Afrolis é um projeto de informação digital que visa mudar a perceção da realidade sobre as mulheres negras e racializadas em Portugal e no mundo.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Afrolis-Associacao-Cultural.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Afrolis-Associacao-Cultural.jpg",
+    "sobre_i18n": {
+      "pt": "Afrolis é um projeto de informação digital que visa mudar a perceção da realidade sobre as mulheres negras e racializadas em Portugal e no mundo.",
+      "es": "Afrolis es un proyecto de información digital que busca cambiar la percepción de la realidad sobre las mujeres negras y racializadas en Portugal y en el mundo.",
+      "en": "Afrolis is a digital media project that aims to change perceptions about Black and racialised women in Portugal and around the world."
+    }
   },
   {
     "id": 7,
@@ -2200,7 +2510,12 @@
       "fullAddress": ""
     },
     "sobre": "A FAR tem como objectivo contribuir para a resolução dos problemas relacionados com o Racismo e Xenofobia na sociedade portuguesa.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Frente-Anti-Racista-FAR.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Frente-Anti-Racista-FAR.jpg",
+    "sobre_i18n": {
+      "pt": "A FAR tem como objectivo contribuir para a resolução dos problemas relacionados com o Racismo e Xenofobia na sociedade portuguesa.",
+      "es": "El FAR tiene como objetivo contribuir a resolver los problemas relacionados con el racismo y la xenofobia en la sociedad portuguesa.",
+      "en": "FAR aims to help solve problems related to racism and xenophobia in Portuguese society."
+    }
   },
   {
     "id": 8,
@@ -2235,7 +2550,12 @@
       "fullAddress": ""
     },
     "sobre": "O grupo Voz D´África surgiu em 1997 em Cascais, no Bairro das Marianas. Atualmente é composto por 16 mulheres e 1 homem. A sua atividade cultural desenvolveu-se através da participação musical no batuque em diferentes espetáculos e gravações com nomes relevantes do panorama musical de Cabo Verde.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2026/02/NA.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2026/02/NA.jpg",
+    "sobre_i18n": {
+      "pt": "O grupo Voz D´África surgiu em 1997 em Cascais, no Bairro das Marianas. Atualmente é composto por 16 mulheres e 1 homem. A sua atividade cultural desenvolveu-se através da participação musical no batuque em diferentes espetáculos e gravações com nomes relevantes do panorama musical de Cabo Verde.",
+      "es": "El grupo Voz D'África surgió en 1997 en Cascais, en el Barrio de Marianas. Actualmente está formado por 16 mujeres y 1 hombre. Su actividad cultural se ha desarrollado a través del batuque, en distintos espectáculos y grabaciones con nombres destacados del panorama musical de Cabo Verde.",
+      "en": "The Voz D'África group was founded in 1997 in Cascais, in the Marianas neighbourhood. It currently has 16 women and 1 man. Its cultural work has developed through batuque music, in performances and recordings with leading names of the Cape Verdean music scene."
+    }
   },
   {
     "id": 9,
@@ -2270,7 +2590,12 @@
       "fullAddress": ""
     },
     "sobre": "Movimento social de consciencialização e organização civil contra o racismo.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2026/02/NA.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2026/02/NA.jpg",
+    "sobre_i18n": {
+      "pt": "Movimento social de consciencialização e organização civil contra o racismo.",
+      "es": "Movimiento social de concienciación y organización civil contra el racismo.",
+      "en": "A social movement for awareness-raising and civic organisation against racism."
+    }
   },
   {
     "id": 10,
@@ -2305,7 +2630,12 @@
       "fullAddress": ""
     },
     "sobre": "Plataforma de Psicólogos, Psicoterapeutas e Técnicos de Saúde Mental e Intervenção Social e Comunitária Afrodescendentes em Portugal.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/AfroPsis-Plataforma-de-Psicologos-Afrodescentes-em-Portugal.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/AfroPsis-Plataforma-de-Psicologos-Afrodescentes-em-Portugal.jpg",
+    "sobre_i18n": {
+      "pt": "Plataforma de Psicólogos, Psicoterapeutas e Técnicos de Saúde Mental e Intervenção Social e Comunitária Afrodescendentes em Portugal.",
+      "es": "Plataforma de Psicólogos, Psicoterapeutas y Técnicos de Salud Mental e Intervención Social y Comunitaria Afrodescendientes en Portugal.",
+      "en": "Platform of Afro-descendant Psychologists, Psychotherapists and Mental Health, Social and Community Work Professionals in Portugal."
+    }
   },
   {
     "id": 11,
@@ -2340,7 +2670,12 @@
       "fullAddress": ""
     },
     "sobre": "SAMANE é uma associação de mulheres que trabalha as questões de saúde materna das mulheres negras e racializadas em Portugal.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/SaMaNe-Saude-das-Maes-Negras.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/SaMaNe-Saude-das-Maes-Negras.jpg",
+    "sobre_i18n": {
+      "pt": "SAMANE é uma associação de mulheres que trabalha as questões de saúde materna das mulheres negras e racializadas em Portugal.",
+      "es": "SAMANE es una asociación de mujeres que trabaja las cuestiones de salud materna de las mujeres negras y racializadas en Portugal.",
+      "en": "SAMANE is a women's association working on maternal health issues for Black and racialised women in Portugal."
+    }
   },
   {
     "id": 12,
@@ -2375,7 +2710,12 @@
       "fullAddress": ""
     },
     "sobre": "A Associação RIZOMA foi fundada em 2022 para colmatar a falta de representatividade e conteúdos audiovisuais positivos sobre a comunidade cigana. O seu objetivo é promover a integração e o desenvolvimento social, com especial enfoque nos jovens da comunidade cigana em Portugal.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Rizoma.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Rizoma.jpg",
+    "sobre_i18n": {
+      "pt": "A Associação RIZOMA foi fundada em 2022 para colmatar a falta de representatividade e conteúdos audiovisuais positivos sobre a comunidade cigana. O seu objetivo é promover a integração e o desenvolvimento social, com especial enfoque nos jovens da comunidade cigana em Portugal.",
+      "es": "La Asociación RIZOMA se fundó en 2022 para paliar la falta de representación y de contenidos audiovisuales positivos sobre la comunidad gitana. Su objetivo es promover la integración y el desarrollo social, con especial atención a los jóvenes de la comunidad gitana en Portugal.",
+      "en": "The RIZOMA Association was founded in 2022 to address the lack of representation and positive audiovisual content about the Roma community. It aims to promote integration and social development, with a special focus on young Roma people in Portugal."
+    }
   },
   {
     "id": 13,
@@ -2410,7 +2750,12 @@
       "fullAddress": ""
     },
     "sobre": "Aurora Negra é um coletivo artístico fundado por Cleo Diára, Isabél Zuaa e Nádia Yracema.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Aurora-Negra.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Aurora-Negra.jpg",
+    "sobre_i18n": {
+      "pt": "Aurora Negra é um coletivo artístico fundado por Cleo Diára, Isabél Zuaa e Nádia Yracema.",
+      "es": "Aurora Negra es un colectivo artístico fundado por Cleo Diára, Isabél Zuaa y Nádia Yracema.",
+      "en": "Aurora Negra is an artistic collective founded by Cleo Diára, Isabél Zuaa and Nádia Yracema."
+    }
   },
   {
     "id": 15,
@@ -2445,7 +2790,12 @@
       "fullAddress": ""
     },
     "sobre": "Associação Teatro IBISCO, Teatro Inter Bairros para a Inclusão Social e Cultura do Optimismo, resulta de um processo pioneiro de inclusão pela arte que juntou jovens de seis bairros de Loures, utilizando o teatro como ferramenta de capacitação, emancipação e auto-estima.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Teatro-Ibisco.png.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Teatro-Ibisco.png.jpg",
+    "sobre_i18n": {
+      "pt": "Associação Teatro IBISCO, Teatro Inter Bairros para a Inclusão Social e Cultura do Optimismo, resulta de um processo pioneiro de inclusão pela arte que juntou jovens de seis bairros de Loures, utilizando o teatro como ferramenta de capacitação, emancipação e auto-estima.",
+      "es": "La Asociación Teatro IBISCO (Teatro Inter Barrios para la Inclusión Social y la Cultura del Optimismo) nace de un proceso pionero de inclusión a través del arte que reunió a jóvenes de seis barrios de Loures, utilizando el teatro como herramienta de capacitación, emancipación y autoestima.",
+      "en": "The IBISCO Theatre Association (Inter-Neighbourhood Theatre for Social Inclusion and a Culture of Optimism) grew out of a pioneering arts-inclusion process that brought together young people from six neighbourhoods in Loures, using theatre as a tool for empowerment, emancipation and self-esteem."
+    }
   },
   {
     "id": 16,
@@ -2480,7 +2830,12 @@
       "fullAddress": ""
     },
     "sobre": "Associação artística dedicada ao desenvolvimento de criações e práticas em diversas disciplinas — artes performativas, literatura, cinema, audiovisual, artes visuais, plásticas e digitais — promovendo a partilha de experiências culturais através de residências artísticas e eventos.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Artepolon-Associacao.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Artepolon-Associacao.jpg",
+    "sobre_i18n": {
+      "pt": "Associação artística dedicada ao desenvolvimento de criações e práticas em diversas disciplinas — artes performativas, literatura, cinema, audiovisual, artes visuais, plásticas e digitais — promovendo a partilha de experiências culturais através de residências artísticas e eventos.",
+      "es": "Asociación artística dedicada al desarrollo de creaciones y prácticas en diversas disciplinas (artes escénicas, literatura, cine, audiovisual, artes visuales, plásticas y digitales) que promueve el intercambio de experiencias culturales mediante residencias artísticas y eventos.",
+      "en": "An arts association developing work and practices across many disciplines (performing arts, literature, film, audiovisual, visual, fine and digital arts), promoting the sharing of cultural experiences through artist residencies and events."
+    }
   },
   {
     "id": 17,
@@ -2515,7 +2870,12 @@
       "fullAddress": ""
     },
     "sobre": "Casa de potencialização artística situada na Linha de Sintra.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Kubata.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Kubata.jpg",
+    "sobre_i18n": {
+      "pt": "Casa de potencialização artística situada na Linha de Sintra.",
+      "es": "Casa de impulso artístico situada en la Línea de Sintra.",
+      "en": "An artistic development house on the Sintra Line."
+    }
   },
   {
     "id": 18,
@@ -2550,7 +2910,12 @@
       "fullAddress": ""
     },
     "sobre": "Inclusão, expressão e transformação através da dança. Projeto de ballet gratuito e acessível para comunidades marginalizadas nas periferias de Lisboa.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Ballet-para-Todos.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Ballet-para-Todos.jpg",
+    "sobre_i18n": {
+      "pt": "Inclusão, expressão e transformação através da dança. Projeto de ballet gratuito e acessível para comunidades marginalizadas nas periferias de Lisboa.",
+      "es": "Inclusión, expresión y transformación a través de la danza. Proyecto de ballet gratuito y accesible para comunidades marginadas de las periferias de Lisboa.",
+      "en": "Inclusion, expression and transformation through dance. A free and accessible ballet project for marginalised communities on the outskirts of Lisbon."
+    }
   },
   {
     "id": 19,
@@ -2585,7 +2950,12 @@
       "fullAddress": ""
     },
     "sobre": "Tributo aos Ancestrais Portugal, iniciado em 2017, homenageia os antepassados africanos escravizados que perderam a vida durante o comércio transatlântico em Portugal.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Tributo-aos-Ancestrais-Africanos-PT.png.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Tributo-aos-Ancestrais-Africanos-PT.png.jpg",
+    "sobre_i18n": {
+      "pt": "Tributo aos Ancestrais Portugal, iniciado em 2017, homenageia os antepassados africanos escravizados que perderam a vida durante o comércio transatlântico em Portugal.",
+      "es": "Tributo aos Ancestrais Portugal, iniciado en 2017, rinde homenaje a los antepasados africanos esclavizados que perdieron la vida durante el comercio transatlántico en Portugal.",
+      "en": "Tributo aos Ancestrais Portugal, started in 2017, honours the enslaved African ancestors who lost their lives during the transatlantic slave trade in Portugal."
+    }
   },
   {
     "id": 20,
@@ -2620,7 +2990,12 @@
       "fullAddress": ""
     },
     "sobre": "Associação de intervenção e difusão cultural.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/A-Fonte.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/A-Fonte.jpg",
+    "sobre_i18n": {
+      "pt": "Associação de intervenção e difusão cultural.",
+      "es": "Asociación de intervención y difusión cultural.",
+      "en": "An association for cultural engagement and dissemination."
+    }
   },
   {
     "id": 21,
@@ -2655,7 +3030,12 @@
       "fullAddress": ""
     },
     "sobre": "Passeio afetivo Nozstoria: histórias de resistência e memória que não se encontram nos manuais escolares.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2026/02/NA.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2026/02/NA.jpg",
+    "sobre_i18n": {
+      "pt": "Passeio afetivo Nozstoria: histórias de resistência e memória que não se encontram nos manuais escolares.",
+      "es": "Paseo afectivo Nozstoria: historias de resistencia y memoria que no aparecen en los libros de texto.",
+      "en": "Nozstoria walking tour: stories of resistance and memory you won't find in school textbooks."
+    }
   },
   {
     "id": 22,
@@ -2690,7 +3070,12 @@
       "fullAddress": ""
     },
     "sobre": "Clube de leitura antirracista.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Quem-me-Lera.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Quem-me-Lera.jpg",
+    "sobre_i18n": {
+      "pt": "Clube de leitura antirracista.",
+      "es": "Club de lectura antirracista.",
+      "en": "An anti-racist book club."
+    }
   },
   {
     "id": 23,
@@ -2725,7 +3110,12 @@
       "fullAddress": ""
     },
     "sobre": "A BANTUMEN é uma publicação digital portuguesa focada em cultura, criatividade, inovação e empreendedorismo afrodescendente.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Bantumen.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Bantumen.jpg",
+    "sobre_i18n": {
+      "pt": "A BANTUMEN é uma publicação digital portuguesa focada em cultura, criatividade, inovação e empreendedorismo afrodescendente.",
+      "es": "BANTUMEN es una publicación digital portuguesa centrada en la cultura, la creatividad, la innovación y el emprendimiento afrodescendiente.",
+      "en": "BANTUMEN is a Portuguese digital publication focused on Afro-descendant culture, creativity, innovation and entrepreneurship."
+    }
   },
   {
     "id": 24,
@@ -2760,7 +3150,12 @@
       "fullAddress": ""
     },
     "sobre": "Conta digital criada para denunciar e combater o racismo em Portugal.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/O-Lado-Negro-da-Forca.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/O-Lado-Negro-da-Forca.jpg",
+    "sobre_i18n": {
+      "pt": "Conta digital criada para denunciar e combater o racismo em Portugal.",
+      "es": "Cuenta digital creada para denunciar y combatir el racismo en Portugal.",
+      "en": "A social media account created to expose and fight racism in Portugal."
+    }
   },
   {
     "id": 25,
@@ -2795,7 +3190,12 @@
       "fullAddress": ""
     },
     "sobre": "Chá de Beleza Afro é uma plataforma de networking que promove e empodera mulheres africanas e afrodescendentes através de eventos, debates e ciclos de conversas.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Cha-de-Beleza-Afro.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Cha-de-Beleza-Afro.jpg",
+    "sobre_i18n": {
+      "pt": "Chá de Beleza Afro é uma plataforma de networking que promove e empodera mulheres africanas e afrodescendentes através de eventos, debates e ciclos de conversas.",
+      "es": "Chá de Beleza Afro es una plataforma de networking que promueve y empodera a mujeres africanas y afrodescendientes mediante eventos, debates y ciclos de conversaciones.",
+      "en": "Chá de Beleza Afro is a networking platform that promotes and empowers African and Afro-descendant women through events, debates and talk series."
+    }
   },
   {
     "id": 26,
@@ -2830,7 +3230,12 @@
       "fullAddress": ""
     },
     "sobre": "Festas noturnas de música e cultura no B.Leza para apoiar a luta contra o racismo em Portugal.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Festas-Fidju-Fema.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Festas-Fidju-Fema.jpg",
+    "sobre_i18n": {
+      "pt": "Festas noturnas de música e cultura no B.Leza para apoiar a luta contra o racismo em Portugal.",
+      "es": "Fiestas nocturnas de música y cultura en el B.Leza para apoyar la lucha contra el racismo en Portugal.",
+      "en": "Music and culture nights at B.Leza supporting the fight against racism in Portugal."
+    }
   },
   {
     "id": 27,
@@ -2865,7 +3270,12 @@
       "fullAddress": ""
     },
     "sobre": "Projeto digital que reúne histórias e experiências de vida ligadas à humanização e resistência.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Quotidiano-de-uma-Negra.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Quotidiano-de-uma-Negra.jpg",
+    "sobre_i18n": {
+      "pt": "Projeto digital que reúne histórias e experiências de vida ligadas à humanização e resistência.",
+      "es": "Proyecto digital que reúne historias y experiencias de vida vinculadas a la humanización y la resistencia.",
+      "en": "A digital project gathering life stories and experiences of humanisation and resistance."
+    }
   },
   {
     "id": 28,
@@ -2900,7 +3310,12 @@
       "fullAddress": ""
     },
     "sobre": "Voto Negro é uma campanha de mobilização eleitoral que pretende combater a abstenção e a exclusão social e política dos afrodescendentes em Portugal.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Pagina-Voto-Negro.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Pagina-Voto-Negro.jpg",
+    "sobre_i18n": {
+      "pt": "Voto Negro é uma campanha de mobilização eleitoral que pretende combater a abstenção e a exclusão social e política dos afrodescendentes em Portugal.",
+      "es": "Voto Negro es una campaña de movilización electoral que busca combatir la abstención y la exclusión social y política de los afrodescendientes en Portugal.",
+      "en": "Voto Negro is a voter mobilisation campaign that aims to tackle abstention and the social and political exclusion of Afro-descendants in Portugal."
+    }
   },
   {
     "id": 29,
@@ -2935,7 +3350,12 @@
       "fullAddress": ""
     },
     "sobre": "Podcast dedicado a dar espaço a vozes raramente ouvidas: portugueses negros, migrantes e pessoas racializadas.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/O-Tal-Podcast.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/O-Tal-Podcast.jpg",
+    "sobre_i18n": {
+      "pt": "Podcast dedicado a dar espaço a vozes raramente ouvidas: portugueses negros, migrantes e pessoas racializadas.",
+      "es": "Pódcast que da espacio a voces que rara vez se escuchan: portugueses negros, migrantes y personas racializadas.",
+      "en": "A podcast giving space to rarely heard voices: Black Portuguese people, migrants and racialised people."
+    }
   },
   {
     "id": 30,
@@ -2970,7 +3390,12 @@
       "fullAddress": ""
     },
     "sobre": "Podcast dedicado a vozes da lusofonia.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/O-Mercado-Lusofono.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/O-Mercado-Lusofono.jpg",
+    "sobre_i18n": {
+      "pt": "Podcast dedicado a vozes da lusofonia.",
+      "es": "Pódcast dedicado a voces de la lusofonía.",
+      "en": "A podcast dedicated to voices from the Portuguese-speaking world."
+    }
   },
   {
     "id": 31,
@@ -3005,7 +3430,12 @@
       "fullAddress": ""
     },
     "sobre": "Projeto musical dedicado à promoção da música eletrónica afrolatina.",
-    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Uma-Africana.jpg.jpg"
+    "img": "https://cesa.rc.iseg.ulisboa.pt/wp-content/uploads/2025/11/Uma-Africana.jpg.jpg",
+    "sobre_i18n": {
+      "pt": "Projeto musical dedicado à promoção da música eletrónica afrolatina.",
+      "es": "Proyecto musical dedicado a la promoción de la música electrónica afrolatina.",
+      "en": "A music project promoting Afro-Latin electronic music."
+    }
   },
   {
     "id": 1001,

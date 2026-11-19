@@ -7,7 +7,7 @@
     rel="stylesheet">
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Mapa CEsA</title>
+  <title>Cartografia Digital (Movimento Afro-Cultural)</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <style>
     :root {
@@ -939,8 +939,8 @@
   <!-- Seletores de projeto e idioma (v2) -->
   <div id="topSelectors">
     <div class="seg" id="projectSelector" role="group">
-      <button data-projeto="pt" data-i18n="projPT">Projetos portugueses</button>
-      <button data-projeto="iberico" data-i18n="projIB">Projetos ibéricos</button>
+      <button data-projeto="pt" data-i18n="projPT">Entidades portuguesas</button>
+      <button data-projeto="iberico" data-i18n="projIB">Entidades catalãs</button>
     </div>
   </div>
 
@@ -1065,13 +1065,14 @@
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script>
     // ============================================================
-    // === v9: IDIOMA (PT/ES/EN) + PROJETO (Portugal / Ibérico) ======
+    // === v11: IDIOMA (PT/ES/EN) + PROJETO (Portugal / Ibérico) ======
     // Parâmetros de URL opcionais para o embed:
     //   ?lang=es | ?lang=en  ·  ?projeto=iberico   (sem parâmetros = comportamento antigo)
     // ============================================================
     const I18N = {
       pt: {
-        projPT: 'Projetos portugueses', projIB: 'Projetos ibéricos',
+        pageTitle: 'Cartografia Digital (Movimento Afro-Cultural)',
+        projPT: 'Entidades portuguesas', projIB: 'Entidades catalãs',
         search: '🔍 Pesquisar organizações...', digitalTitle: ' Mundo Digital',
         suggestTitle: 'Sugestões', suggestEmail: 'O teu email',
         suggestMsg: 'Escreve aqui a tua sugestão...', send: 'Enviar',
@@ -1085,7 +1086,8 @@
         suggestBtn: 'Enviar sugestão', close: 'Fechar', event: 'Evento'
       },
       es: {
-        projPT: 'Proyectos portugueses', projIB: 'Proyectos ibéricos',
+        pageTitle: 'Cartografía Digital (Movimiento Afro-Cultural)',
+        projPT: 'Entidades portuguesas', projIB: 'Entidades catalanas',
         search: '🔍 Buscar organizaciones...', digitalTitle: ' Mundo Digital',
         suggestTitle: 'Sugerencias', suggestEmail: 'Tu email',
         suggestMsg: 'Escribe aquí tu sugerencia...', send: 'Enviar',
@@ -1099,7 +1101,8 @@
         suggestBtn: 'Enviar sugerencia', close: 'Cerrar', event: 'Evento'
       },
       en: {
-        projPT: 'Portuguese projects', projIB: 'Iberian projects',
+        pageTitle: 'Digital Cartography (Afro-Cultural Movement)',
+        projPT: 'Portuguese organisations', projIB: 'Catalan organisations',
         search: '🔍 Search organisations...', digitalTitle: ' Digital World',
         suggestTitle: 'Suggestions', suggestEmail: 'Your email',
         suggestMsg: 'Write your suggestion here...', send: 'Send',
@@ -1160,6 +1163,7 @@
     function inProject(o) { return currentProject === 'iberico' ? true : projetoDe(o) === 'pt'; }
 
     function applyStaticI18n() {
+      document.title = t('pageTitle');
       document.documentElement.lang = { pt: 'pt-PT', es: 'es', en: 'en' }[currentLang] || currentLang;
       document.querySelectorAll('[data-i18n]').forEach(el => { el.textContent = t(el.dataset.i18n); });
       document.querySelectorAll('[data-i18n-ph]').forEach(el => { el.placeholder = t(el.dataset.i18nPh); });
