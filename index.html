@@ -931,6 +931,44 @@
     /* só os registos ibéricos (img/es/); os portugueses ficam como estavam */
     .panel-header img[src*="img/es/"] { object-fit: contain !important; object-position: center; padding: 10px; box-sizing: border-box; background: #fff; }
     .result-item img[src*="img/es/"], #digitalList img[src*="img/es/"] { object-fit: contain !important; object-position: center; background: #fff; padding: 2px; box-sizing: border-box; }
+    /* ============================================================
+       v12 — responsivo em iframe (embed CEsA)
+       Só atua até 1100px; o desktop fica igual.
+       ============================================================ */
+    @media (max-width: 1100px) {
+      :root { --lang-h: 34px; --d3-h: 124px; --left-col: calc(var(--gap) + var(--ctl) + 10px); }
+      /* idioma sozinho no canto inferior direito, mais compacto */
+      #langSelector { right: var(--gap); bottom: var(--gap); left: auto; top: auto; padding: 3px; }
+      #langSelector button { padding: 5px 9px 5px 7px; font-size: 12px; gap: 5px; }
+      #langSelector .flag { width: 18px; height: 12px; }
+      /* barra de entidades: entre os botões da esquerda e a margem direita, acima do idioma */
+      #digitalPreview3 {
+        top: auto; left: var(--left-col); right: var(--gap);
+        bottom: calc(var(--gap) + var(--lang-h) + 8px);
+        transform: none; max-width: none; width: auto; box-sizing: border-box;
+        justify-content: flex-start; overflow-x: auto; overflow-y: hidden;
+        -webkit-overflow-scrolling: touch; overscroll-behavior-x: contain; scrollbar-width: thin;
+      }
+      .digital3-tile { flex: 0 0 auto; }
+      /* seletor de entidades com mais folga em relação ao zoom */
+      /* seletor de entidades centrado como no PC, numa linha abaixo da pesquisa (longe do zoom) */
+      #topSelectors { top: 58px; left: 50%; right: auto; transform: translateX(-50%); flex-direction: row; }
+      /* crédito OSM acima da barra de entidades */
+      .leaflet-bottom.leaflet-right { bottom: calc(var(--gap) + var(--lang-h) + 8px + var(--d3-h) + 6px); }
+    }
+    @media (max-width: 700px) {
+      :root { --lang-h: 32px; --d3-h: 88px; }
+      #digitalPreview3 { gap: 6px; padding: 6px; bottom: calc(var(--gap) + var(--lang-h) + 8px); }
+      .digital3-tile { min-width: 72px; padding: 4px; gap: 4px; }
+      .digital3-tile img { width: 44px; height: 44px; }
+      .digital3-tile .d3-name { font-size: 11px; width: 66px; }
+      .leaflet-top.leaflet-left { top: 108px; }
+    }
+    /* altura muito pequena (<440px de iframe): esconder a barra (acessível pelo botão do globo) */
+    @media (max-width: 1100px) and (max-height: 439px) {
+      #digitalPreview3 { display: none !important; }
+      .leaflet-bottom.leaflet-right { bottom: calc(var(--gap) + var(--lang-h) + 6px); }
+    }
   </style>
 </head>
 
